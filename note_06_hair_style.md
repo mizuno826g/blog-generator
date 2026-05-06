@@ -1,13 +1,25 @@
 # 40代男性の「髪の印象管理」——白髪・薄毛は隠すより「制御」せよ
 
-[IMAGE_PROMPT_1]
-Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes,
-       strong jaw, Asian features, wearing a dark fitted suit jacket.
-Scene: The model stands in a modern executive corridor, silver hair sharply styled and deliberate.
-       Confident posture, one hand adjusting his cufflink. The silver-gray reads as distinguished authority.
-Style: Cinematic photography, high contrast, warm dark tones, editorial quality
-Lighting: Soft overhead fill with dramatic side key light emphasizing hair texture and jawline
-Note: No text overlay. Full-bleed composition.
+[IMAGE_PROMPT]
+A premium Japanese men's grooming brand editorial thumbnail image.
+Aspect ratio: 16:9 (landscape / wide banner).
+
+Layout:
+- Background: deep charcoal to black gradient, luxury dark aesthetic.
+- Left area (approx. 55% of width):
+  Large bold white Japanese headline: 「白髪は、隠すものじゃない。」
+  Below headline: smaller gold subtext: 「40代の『髪の印象管理』——制御する戦略」
+  Gold accent badge: 「グレー戦略×頭皮ケア×カットサイクル」
+- Right area (approx. 45% of width):
+  Model: Male, early 50s, silver-gray hair sharply slicked back — the silver tone reads as
+  authority, not age. Full trimmed gray beard, sharp eyes, dark suit jacket.
+  Dramatic side key light emphasizing hair texture. Confident posture, slight three-quarter profile.
+- Bottom strip (full width, thin dark bar):
+  Gold/white small text labels: 「01 メカニズム」「02 グレー戦略」「03 頭皮環境」「04 カットサイクル」
+- Subtle gold accent horizontal line above bottom strip.
+
+Style: Cinematic editorial, luxury men's brand aesthetic, high contrast, warm dark tones,
+gold and white typography, premium Japanese business magazine feel.
 
 ---
 
@@ -25,13 +37,6 @@ Note: No text overlay. Full-bleed composition.
 
 ## 40代の髪は、なぜ「管理が難しく」なるのか
 
-[IMAGE_PROMPT_2]
-Model: Male, early 50s, silver-gray hair, slight disheveled look — overgrown sides, patchy styling.
-Scene: Standing under harsh office fluorescent lighting. Looking slightly tired, hair slightly unkempt.
-       A reflection in a glass wall emphasizes the impression gap between intention and reality.
-Style: Cinematic documentary photography, cool tone, naturalistic lighting
-Lighting: Overhead fluorescent, slightly unflattering — realistic workplace setting
-Note: No text overlay. Full-bleed composition.
 
 40代以降、髪には大きく3つの変化が同時進行する。
 
@@ -62,13 +67,6 @@ Note: No text overlay. Full-bleed composition.
 
 ## ステップ①：白髪は「隠す」より「確立する」
 
-[IMAGE_PROMPT_3]
-Model: Male, early 50s, silver-gray hair sharply styled — slicked back with clean lines, full trimmed gray beard.
-Scene: Standing at the head of a conference table, clearly commanding the room. Other attendees
-       looking toward him. The silver hair reads as decisive authority, not age.
-Style: Cinematic photography, high contrast, warm lighting, editorial quality
-Lighting: Warm overhead with soft directional side key light, controlled shadows
-Note: No text overlay. Full-bleed composition.
 
 白髪を染めること自体は選択肢のひとつだが、40代以降に「完全に黒く染める」戦略は中長期的にリスクが高い。
 

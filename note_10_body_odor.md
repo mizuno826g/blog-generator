@@ -1,13 +1,25 @@
 # 加齢臭・体臭は「本人だけが気づかない」——40代から始めるニオイの印象管理
 
-[IMAGE_PROMPT_1]
-Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes,
-       strong jaw, Asian features, wearing a clean white dress shirt under a dark blazer.
-Scene: Standing in a bright, airy modern office. The overall impression is clean, well-maintained,
-       and commanding. The environment and person both project controlled freshness.
-Style: Cinematic photography, high contrast, clean bright tones with warm accents, editorial quality
-Lighting: Soft natural light from windows with subtle directional fill — clean and airy feel
-Note: No text overlay. Full-bleed composition.
+[IMAGE_PROMPT]
+A premium Japanese men's grooming brand editorial thumbnail image.
+Aspect ratio: 16:9 (landscape / wide banner).
+
+Layout:
+- Background: deep charcoal to black gradient, luxury dark aesthetic.
+- Left area (approx. 55% of width):
+  Large bold white Japanese headline: 「加齢臭は、本人だけが気づかない。」
+  Below headline: smaller gold subtext: 「ニオイの印象管理——ノネナールの正体と対策」
+  Gold accent badge: 「嗅覚順応という落とし穴」
+- Right area (approx. 45% of width):
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
+  clean white dress shirt under a dark blazer. Standing in a clean, airy modern space.
+  Composed, controlled expression. Natural window light — clean and fresh atmosphere.
+- Bottom strip (full width, thin dark bar):
+  Gold/white small text labels: 「01 嗅覚順応」「02 ノネナールの発生」「03 発生源の制御」「04 体内環境」「05 衣類管理」
+- Subtle gold accent horizontal line above bottom strip.
+
+Style: Cinematic editorial, luxury men's brand aesthetic, high contrast, clean bright tones
+with warm dark accents, gold and white typography, premium Japanese business magazine feel.
 
 ---
 
@@ -25,14 +37,6 @@ Note: No text overlay. Full-bleed composition.
 
 ## 「加齢臭」とは何か——ノネナールの発生メカニズム
 
-[IMAGE_PROMPT_2]
-Model: Male, early 50s, silver-gray hair, slightly rumpled appearance. In a meeting setting,
-       a colleague nearby appears subtly uncomfortable — turning slightly away, touching their nose.
-       The situation implies awareness of an unpleasant smell without being overtly dramatic.
-Scene: A glass-walled meeting room. The model is speaking, unaware of the social dynamic.
-Style: Cinematic documentary photography, cool tones, realistic office environment
-Lighting: Fluorescent overhead with soft fill — naturalistic and slightly unflattering
-Note: No text overlay. Full-bleed composition.
 
 加齢臭の主成分は「2-ノネナール（ノネナール）」という揮発性アルデヒド化合物だ。1999年、資生堂（後に他研究機関も追随）の研究により、加齢臭の原因物質として特定された。
 
@@ -63,15 +67,6 @@ Note: No text overlay. Full-bleed composition.
 ---
 
 ## ステップ①：発生源の制御——正しい洗浄で皮脂の蓄積を断つ
-
-[IMAGE_PROMPT_3]
-Model: Male, early 50s, silver-gray hair sharply styled, clean and composed expression.
-       Wearing a clean, crisp white dress shirt — visually projects freshness and control.
-Scene: Standing in a well-lit modern hotel lobby or executive lounge. The overall impression
-       is clean, controlled, and authoritative. No sign of fatigue or neglect.
-Style: Cinematic photography, high contrast, clean bright tones, editorial quality
-Lighting: Even soft light with slight warm directional accent — clean and sharp
-Note: No text overlay. Full-bleed composition.
 
 ノネナール発生の起点は「皮脂の蓄積と酸化」だ。これを防ぐには、重点部位を毎日確実に洗浄することが最も直接的な対策になる。
 

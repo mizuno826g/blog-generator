@@ -1,13 +1,26 @@
 # 日焼け止めは「老化への保険」ではなく、ビジネスにおける「外見資本の維持費」だ
 
-[IMAGE_PROMPT_1]
-Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes,
-       strong jaw, Asian features, wearing a crisp dark suit.
-Scene: Walking into a glass-fronted office building in morning light. Sunlight catches his face
-       cleanly — healthy skin tone, no visible sun damage, projecting vitality and control.
-Style: Cinematic photography, high contrast, warm morning tones, editorial quality
-Lighting: Natural morning directional sunlight from the side, creating clean skin texture
-Note: No text overlay. Full-bleed composition.
+[IMAGE_PROMPT]
+A premium Japanese men's grooming brand editorial thumbnail image.
+Aspect ratio: 16:9 (landscape / wide banner).
+
+Layout:
+- Background: deep charcoal to black gradient, luxury dark aesthetic. Subtle warm amber glow
+  on the right side suggesting morning sunlight — contrasting with the dark left.
+- Left area (approx. 55% of width):
+  Large bold white Japanese headline: 「皮膚老化の約80%は、紫外線が原因だ。」
+  Below headline: smaller gold subtext: 「日焼け止めは外見資本の維持費である」
+  Gold accent badge/circle: 「毎日UV対策」
+- Right area (approx. 45% of width):
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, dark suit.
+  Walking into a glass-fronted building in morning light. Morning sunlight catches his face
+  cleanly. Healthy skin tone projecting vitality and control.
+- Bottom strip (full width, thin dark bar):
+  Gold/white small text labels: 「01 光老化のメカニズム」「02 SPF/PA選択」「03 正しい塗布量」「04 習慣化」
+- Subtle gold accent horizontal line above bottom strip.
+
+Style: Cinematic editorial, luxury men's brand aesthetic, high contrast, warm morning tones,
+gold and white typography, premium Japanese business magazine feel.
 
 ---
 
@@ -25,14 +38,6 @@ Note: No text overlay. Full-bleed composition.
 
 ## なぜ「日常使い」が重要なのか——UVAという見えないリスク
 
-[IMAGE_PROMPT_2]
-Model: Male, early 50s, slightly weathered skin texture — visible sun damage on cheeks and forehead,
-       minor pigmentation irregularities. Still businesslike but the skin shows accumulated UV damage.
-Scene: Sitting near a large office window with sunlight streaming in. The skin damage is subtly
-       visible in the directional light — a before image representing neglected UV protection.
-Style: Cinematic documentary photography, cool-warm split toning, naturalistic window lighting
-Lighting: Strong directional window light revealing skin texture and irregularities
-Note: No text overlay. Full-bleed composition.
 
 紫外線にはUVBとUVAの2種類がある。多くの人が「日焼け」として認識しているのはUVBによる炎症（赤み・ヒリヒリ感）だが、本当のダメージはUVAの蓄積にある。
 
@@ -64,14 +69,6 @@ Note: No text overlay. Full-bleed composition.
 
 ## ステップ①：SPFとPAの正しい選択
 
-[IMAGE_PROMPT_3]
-Model: Male, early 50s, silver-gray hair sharply styled, clear and even skin tone, no visible
-       sun damage. Confident and commanding expression.
-Scene: Standing outdoors near a modern glass-and-steel building, natural daylight illuminating
-       his face cleanly. Skin looks healthy, controlled, and age-appropriate but vital.
-Style: Cinematic photography, high contrast, clean natural daylight, editorial quality
-Lighting: Soft overcast daylight with slight directional modeling — flattering and natural
-Note: No text overlay. Full-bleed composition.
 
 日焼け止めのラベルには2つの指標がある。
 

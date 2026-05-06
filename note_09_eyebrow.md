@@ -1,13 +1,25 @@
 # 眉毛は「顔の設計図」——40代男性が今すぐ眉を整えるべき、ビジネス上の理由
 
-[IMAGE_PROMPT_1]
-Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes,
-       strong jaw, Asian features, wearing a dark fitted suit.
-Scene: Close-up portrait with particular focus on the face structure. Eyebrows are cleanly shaped —
-       defined, symmetrical, and businesslike. The overall impression projects authority and reliability.
-Style: Cinematic photography, high contrast, warm dark tones, editorial quality
-Lighting: Dramatic directional side lighting, strong contrast, deep shadows defining face structure
-Note: No text overlay. Full-bleed composition.
+[IMAGE_PROMPT]
+A premium Japanese men's grooming brand editorial thumbnail image.
+Aspect ratio: 16:9 (landscape / wide banner).
+
+Layout:
+- Background: deep charcoal to black gradient, luxury dark aesthetic.
+- Left area (approx. 55% of width):
+  Large bold white Japanese headline: 「眉毛が変わると、顔が変わる。」
+  Below headline: smaller gold subtext: 「40代男性が今すぐ眉を整えるべき理由」
+  Below subtext: white text with gold accent: 「週3分・月1,000円のビジネス投資」
+- Right area (approx. 45% of width):
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, dark suit.
+  Close-up portrait — eyebrows are cleanly shaped, defined, symmetrical, and businesslike.
+  Dramatic directional side lighting, strong contrast, deep shadows defining face structure.
+- Bottom strip (full width, thin dark bar):
+  Gold/white small text labels: 「01 顔認識の科学」「02 ベースライン確立」「03 週次ケア」「04 プロリセット」
+- Subtle gold accent horizontal line above bottom strip.
+
+Style: Cinematic editorial, luxury men's brand aesthetic, high contrast, warm dark tones,
+gold and white typography, premium Japanese business magazine feel.
 
 ---
 
@@ -25,14 +37,6 @@ Note: No text overlay. Full-bleed composition.
 
 ## なぜ眉毛は「印象の主役」なのか——顔認識メカニズムから読み解く
 
-[IMAGE_PROMPT_2]
-Model: Male, early 50s, silver-gray hair slightly unkempt, eyebrows ungroomed — overgrown,
-       asymmetrical, several stray hairs visibly extending beyond natural shape.
-Scene: Standard office setting, direct frontal lighting. The ungroomed eyebrows create an
-       impression of inattention and lack of refinement, despite businesslike clothing.
-Style: Cinematic documentary photography, neutral tones, direct even lighting
-Lighting: Even frontal soft light — no dramatic shadows, letting the face features speak
-Note: No text overlay. Full-bleed composition.
 
 人間の脳は顔を認識する際に、最初に眉の位置と形を参照する。マサチューセッツ工科大学の研究（Sinha et al.）では、有名人の顔から眉毛を消した画像は、目を消した画像よりも認識率が大幅に低下することが示されている。それほど眉毛は顔の「構造情報」として機能している。
 
@@ -61,14 +65,6 @@ Note: No text overlay. Full-bleed composition.
 
 ## ステップ①：ベースラインの確立——「正解の形」を知る
 
-[IMAGE_PROMPT_3]
-Model: Male, early 50s, silver-gray hair sharply styled, eyebrows cleanly groomed — well-defined,
-       symmetrical, natural but clearly maintained. Face looks structured and authoritative.
-Scene: Meeting room setting, facing the camera directly. The face projects structure, credibility,
-       and control. The eyebrows frame the eyes with clear definition.
-Style: Cinematic photography, high contrast, warm tones, editorial quality
-Lighting: Warm directional key light from slightly above — classical executive portrait lighting
-Note: No text overlay. Full-bleed composition.
 
 眉毛の形には「正解の基準点」がある。これを知ることが、初めてケアに取り組む人の最初のステップだ。
 

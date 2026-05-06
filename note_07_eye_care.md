@@ -1,13 +1,24 @@
 # 40代男性の「目元印象管理」——クマ・むくみ・たるみは、疲労シグナルを無音で発信している
 
-[IMAGE_PROMPT_1]
-Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes,
-       strong jaw, Asian features, wearing a dark fitted turtleneck.
-Scene: Close-up portrait with dramatic focus on the eye area. Eyes are sharp and clear, no visible
-       fatigue. The controlled gaze projects alertness and authority. Clean dark background.
-Style: Cinematic photography, high contrast, warm dark tones, editorial quality
-Lighting: Dramatic side lighting with soft fill — eyes are the center of attention
-Note: No text overlay. Full-bleed composition.
+[IMAGE_PROMPT]
+A premium Japanese men's grooming brand editorial thumbnail image.
+Aspect ratio: 16:9 (landscape / wide banner).
+
+Layout:
+- Background: deep charcoal to black gradient, luxury dark aesthetic.
+- Left area (approx. 55% of width):
+  Large bold white Japanese headline: 「クマ・むくみは、疲弊のシグナルを無音で発信している。」
+  Below headline: smaller gold subtext: 「40代の目元印象管理——3種のクマと対策」
+- Right area (approx. 45% of width):
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard.
+  Close-up portrait — the eye area is the clear focus. Eyes are sharp and alert, no visible
+  fatigue. Dramatic side lighting with soft fill. Dark background.
+- Bottom strip (full width, thin dark bar):
+  Gold/white small text labels: 「01 青クマ」「02 茶クマ」「03 黒クマ」「04 睡眠管理」「05 アイケア」
+- Subtle gold accent horizontal line above bottom strip.
+
+Style: Cinematic editorial, luxury men's brand aesthetic, high contrast, warm dark tones,
+gold and white typography, premium Japanese business magazine feel.
 
 ---
 
@@ -25,14 +36,6 @@ Note: No text overlay. Full-bleed composition.
 
 ## 40代の目元が「疲労シグナル発信装置」になるメカニズム
 
-[IMAGE_PROMPT_2]
-Model: Male, early 50s, silver-gray hair slightly disheveled, under-eye dark circles visible,
-       slightly puffy eye area, tired expression.
-Scene: Sitting at a desk in an office, overhead fluorescent lighting casting unflattering shadows
-       under the eyes. The fatigue reads clearly even in a business setting.
-Style: Cinematic documentary photography, cool tone, naturalistic office lighting
-Lighting: Overhead fluorescent — emphasizes under-eye shadows and puffiness
-Note: No text overlay. Full-bleed composition.
 
 目元の疲労シグナルには、主に3種類のクマが存在し、それぞれ原因と対処法が異なる。
 
@@ -63,14 +66,6 @@ Note: No text overlay. Full-bleed composition.
 
 ## ステップ①：睡眠の質とコンディション管理——「翌朝の目元」を制御する
 
-[IMAGE_PROMPT_3]
-Model: Male, early 50s, silver-gray hair sharply styled, sharp clear eyes — no dark circles,
-       no puffiness. Confident and alert expression.
-Scene: Walking through a modern office lobby in the morning, natural light from floor-to-ceiling
-       windows illuminating his face. The eye area looks sharp, well-rested, and commanding.
-Style: Cinematic photography, high contrast, warm natural morning light, editorial quality
-Lighting: Directional morning sunlight from the side, creating clean shadows and sharp definition
-Note: No text overlay. Full-bleed composition.
 
 目元の状態は、前日の過ごし方が直接反映される。
 

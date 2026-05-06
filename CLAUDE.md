@@ -223,22 +223,34 @@ Q&A形式で3〜5問。読者の疑問・反論を先回りして答える。
 
 ### NOTE記事の画像プロンプト
 
-各NOTE記事につき **3枚** の画像生成プロンプトを `[IMAGE_PROMPT_1]`〜`[IMAGE_PROMPT_3]` として埋め込む。
+各NOTE記事につき **1枚** の画像生成プロンプトを `[IMAGE_PROMPT]` として埋め込む。
 
-| 番号 | 用途 | イメージ |
-|------|------|--------|
-| IMAGE_PROMPT_1 | アイキャッチ（記事冒頭） | モデル人物を使ったシネマティックな1枚。記事テーマを体現するシーン |
-| IMAGE_PROMPT_2 | 本文中（問題提起セクション付近） | 問題・課題を視覚化する場面。疲れ・だらしなさ等のビフォー的なシーン |
-| IMAGE_PROMPT_3 | 本文中（解決策セクション付近） | 解決後・理想状態を体現するシーン。清潔感・自信・洗練されたアフター |
+**用途：** 記事のOGP画像・サムネイル（記事一覧・SNSシェア時に表示される）。  
+**フォーマット：** 16:9 横長バナー形式。  
+**設計方針：** 記事を開く前に「何についての記事か」が一目でわかる構成。  
+左側に大見出しコピー、右側にBELDANTEモデル、下部に記事の章立て要素を配置。
 
 ```
-[IMAGE_PROMPT_X]
-Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes,
-       strong jaw, Asian features.
-Scene: [シーンの詳細説明]
-Style: Cinematic photography, high contrast, [warm/cool]-toned, editorial quality
-Lighting: [ライティング詳細]
-Note: No text overlay. Full-bleed composition.
+[IMAGE_PROMPT]
+A premium Japanese men's grooming brand editorial thumbnail image.
+Aspect ratio: 16:9 (landscape / wide banner).
+
+Layout:
+- Background: deep charcoal to black gradient, luxury dark aesthetic, subtle dark texture.
+- Left area (approx. 55% of width):
+  Large bold white Japanese headline: "[記事メインコピー（鍵括弧付き）]"
+  Below headline: smaller gold or light gray subtext in Japanese: "[サブキャッチコピー]"
+  Optional: key number or stat callout enclosed in a gold circle or badge.
+- Right area (approx. 45% of width):
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
+  sharp intense eyes, strong jaw, Asian features, dark clothing.
+  [シーン・ポーズの説明]
+- Bottom strip (full width, thin dark bar):
+  Small white/gold text labels showing [記事の要点 3〜5項目を「01 テキスト」形式で横並び]
+- Subtle gold accent lines or light streaks as decorative elements.
+
+Style: Cinematic editorial, luxury men's brand aesthetic, high contrast, dark warm tones,
+gold and white typography, premium Japanese business magazine feel.
 ```
 
 ---

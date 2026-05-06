@@ -1,14 +1,26 @@
 # 男の顔には、生き様が表れる——BELDANTEが伝えたいこと
 
-[IMAGE_PROMPT_1]
-Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes,
-       strong jaw, Asian features, wearing a dark fitted turtleneck.
-Scene: Standing alone in a dimly lit, high-end executive space — dark wood paneling, a single
-       directional spotlight illuminating his face. The expression is calm, deliberate, and assured.
-       The image projects depth accumulated over decades, not youth.
-Style: Cinematic photography, extreme high contrast, deep warm shadows, editorial quality
-Lighting: Single dramatic spotlight from slightly above — chiaroscuro, Renaissance-style depth
-Note: No text overlay. Full-bleed composition.
+[IMAGE_PROMPT]
+A premium Japanese men's grooming brand editorial thumbnail image.
+Aspect ratio: 16:9 (landscape / wide banner).
+
+Layout:
+- Background: deep charcoal to black gradient, luxury dark aesthetic, subtle dark texture.
+- Left area (approx. 55% of width):
+  Large bold white Japanese headline: 「男の顔には、生き様が表れる。」
+  Below headline: smaller gold subtext: 「BELDANTEが伝えたいこと」
+  Below subtext: gold badge/circle with text: 「創刊」
+- Right area (approx. 45% of width):
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
+  sharp intense eyes, strong jaw, Asian features, dark turtleneck.
+  Standing with calm authority, slight three-quarter profile facing left.
+  Single dramatic spotlight from above — chiaroscuro depth. Dark background.
+- Bottom strip (full width, thin dark bar):
+  Gold/white small text labels horizontally: 「01 このメディアについて」「02 老いでなく自己管理」「03 発信テーマ全貌」「04 BELDANTEとは」
+- Subtle gold accent horizontal line separating bottom strip from main area.
+
+Style: Cinematic editorial, luxury men's brand aesthetic, high contrast, deep warm shadows,
+gold and white typography, premium Japanese business magazine feel.
 
 ---
 
@@ -36,15 +48,6 @@ BELDANTEは、40代・50代の男性に向けた身だしなみと自己管理�
 
 ## 若さにしがみつくことでも、老けることを受け入れることでもない
 
-[IMAGE_PROMPT_2]
-Model: Male, early 50s, silver-gray hair slightly disheveled, slightly tired expression.
-Scene: Looking into a bathroom mirror in the early morning, harsh overhead light. The reflection
-       shows a man at a crossroads — not defeated, but aware of accumulated fatigue and change.
-       A moment of honest self-assessment.
-Style: Cinematic documentary photography, cool blue-white tones, realistic harsh lighting
-Lighting: Overhead bathroom fluorescent — unflattering but honest, creating visible shadows
-Note: No text overlay. Full-bleed composition.
-
 「アンチエイジング」という言葉が好きではない。
 
 「老化に抗う」というフレームそのものが、年齢を重ねることを「敗北」として捉えている。40代・50代の男性が、20代の顔になろうとするのは無意味だし、そもそもなる必要がない。
@@ -60,15 +63,6 @@ BELDANTEが考えるのは、若返ることではない。**「現役の鋭さ�
 ---
 
 ## 何を発信するか
-
-[IMAGE_PROMPT_3]
-Model: Male, early 50s, silver-gray hair sharply styled, full trimmed gray beard, sharp composed eyes.
-Scene: Seated at a clean minimal desk in morning light, reviewing papers or a notebook.
-       The overall impression is of a man who is deliberate and prepared — no sign of rushed chaos.
-       Clean, controlled, and quietly confident.
-Style: Cinematic photography, warm morning light, high contrast, editorial quality
-Lighting: Soft directional natural window light from the side — warm, clean, purposeful
-Note: No text overlay. Full-bleed composition.
 
 テーマは、40代・50代の男性が「見た目のコンディション管理」において直面する、具体的な課題だ。
 
