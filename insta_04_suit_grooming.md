@@ -14,11 +14,12 @@
 [PHOTO_PROMPT]
 Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes,
        strong jaw, Asian features, wearing a perfectly tailored dark charcoal suit with white dress shirt.
-Scene: The model is adjusting his suit jacket cuff or buttoning his jacket cuff link in close detail.
-       Waist-up shot. Focus on the deliberate, precise gesture of grooming. The suit fits impeccably.
-       Background is a dark blurred interior — hotel lobby or high-end office.
-Style: Cinematic photography, high contrast, dark premium aesthetic, sharp detail on fabric and hands
-Lighting: Warm directional light highlighting the texture of the suit fabric and the deliberate hand gesture
+Scene: The model stands before a tall full-length mirror in a premium hotel room, one hand smoothing
+       the lapel of his perfectly tailored dark charcoal suit. His reflection shows the full look —
+       crisp white shirt, sharp collar, fitted jacket. An expression of calm final inspection before
+       stepping out. Shoes subtly visible at the bottom — polished to a mirror finish.
+Style: Cinematic photography, high contrast, dark premium aesthetic, sharp focus on suit fit and reflection
+Lighting: Warm side light highlighting fabric texture and the precise silhouette of the suit
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.
 Size: W1080 × H1350
 ```

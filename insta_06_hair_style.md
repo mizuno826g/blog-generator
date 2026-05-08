@@ -14,10 +14,12 @@
 [PHOTO_PROMPT]
 Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes,
        strong jaw, Asian features, wearing a dark fitted turtleneck.
-Scene: Close-up portrait, the model's silver hair is sharply styled and deliberate — not unkempt.
-       The silver-gray tone reads as distinguished, not aged. Clean background, dark tones.
-Style: Cinematic editorial portrait, high contrast, sharp focus on hair texture and face
-Lighting: Dramatic side lighting emphasizing the silver hair texture, warm key light on face
+Scene: The model stands before a dark mirror, fingers working a small amount of pomade through his
+       silver hair — slicking it back with a precise, deliberate motion. Eyes focused on his own
+       reflection. The gesture is confident and practiced. A simple comb rests on the dark counter.
+       The silver-gray hair catches the light as it takes shape — not messy, not stiff. Controlled.
+Style: Cinematic editorial portrait, high contrast, sharp focus on hair texture and the styling gesture
+Lighting: Warm side light emphasizing the silver hair's sheen and the deliberate motion of the hands
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.
 Size: W1080 × H1350
 ```

@@ -14,11 +14,12 @@
 [PHOTO_PROMPT]
 Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes,
        strong jaw, Asian features, wearing a dark dress shirt.
-Scene: Extreme close-up of the model's face from the eyes to the chin. Sharp, intense gaze directly
-       into camera. Eyes are clear, alert, and commanding — no visible dark circles or puffiness.
-       The eye area conveys authority and energy.
-Style: Cinematic editorial portrait, ultra-sharp focus on eyes, high contrast
-Lighting: Soft front light eliminating shadows under eyes, warm professional tones
+Scene: The model sits at a bathroom vanity in soft morning light, applying eye cream with his ring
+       finger — gentle tapping motion along the under-eye area. His eyes are slightly downcast in
+       focused concentration. A small dark glass jar of eye cream sits open on the marble counter.
+       The gesture is precise and deliberate. Close to medium shot showing the face and hand clearly.
+Style: Cinematic photography, high contrast, intimate morning-care aesthetic, warm tones
+Lighting: Soft diffused morning window light from the side, clean and gentle — flattering the eye area
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.
 Size: W1080 × H1350
 ```

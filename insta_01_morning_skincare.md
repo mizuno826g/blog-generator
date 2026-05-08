@@ -14,11 +14,12 @@
 [PHOTO_PROMPT]
 Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes,
        strong jaw, Asian features, wearing dark robe or open-collar dark shirt.
-Scene: The model is leaning over a luxury black marble washbasin, hands on face with rich foam lather,
-       eyes closed in deliberate motion. Premium skincare products arranged on the counter behind him.
-       Warm luxury bathroom with dark wood and stone materials visible in background.
+Scene: The model stands at a luxury black marble bathroom counter, pressing both palms gently to his
+       cheeks and jaw — applying toner or lotion with deliberate, controlled pressure. Eyes closed in
+       focused concentration. Several premium glass skincare bottles arranged on the dark stone counter.
+       Faint steam from a recent shower lingers in the air. Morning light just beginning to filter in.
 Style: Cinematic photography, high contrast, luxury aesthetic, warm dark tones
-Lighting: Warm ambient light from above and sides, dramatic shadows, no harsh flash
+Lighting: Soft warm sconce light from the sides, intimate morning-routine atmosphere, no harsh flash
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.
 Size: W1080 × H1350
 ```

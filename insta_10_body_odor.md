@@ -14,11 +14,12 @@
 [PHOTO_PROMPT]
 Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes,
        strong jaw, Asian features, wearing a dark fitted jacket over a dark dress shirt.
-Scene: The model stands in a clean, minimalist locker room or premium gym changing area.
-       He is adjusting his jacket collar or shirt, composed and deliberate. The setting is clean
-       and premium. The image conveys "a man who takes care of every detail."
-Style: Cinematic photography, warm tones, clean and sophisticated aesthetic
-Lighting: Warm ambient light from the side, clean and controlled
+Scene: The model stands in a premium dark-tiled shower, water running, head tilted slightly —
+       thoroughly lathering the back of his neck and behind his ear with deliberate focus.
+       Shot from the chest up, minimal steam around him. The gesture is methodical, not casual.
+       The image conveys conscious, targeted hygiene — not a routine scrub, but a precise ritual.
+Style: Cinematic photography, high contrast, clean dark tones, intimate and controlled aesthetic
+Lighting: Soft diffused overhead light through steam, clean and controlled — no harsh shadows
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.
 Size: W1080 × H1350
 ```

@@ -14,11 +14,12 @@
 [PHOTO_PROMPT]
 Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes,
        strong jaw, Asian features, wearing a dark fitted jacket.
-Scene: The model stands near a floor-to-ceiling office window with bright natural light streaming in.
-       His skin is clear and even-toned — no visible discoloration or age spots. The light catches his
-       face cleanly, emphasizing well-maintained skin despite his age. Confident, composed posture.
-Style: Cinematic editorial, high contrast, cool-toned natural light aesthetic
-Lighting: Strong natural window light from the side, emphasizing skin clarity and tone
+Scene: The model stands at a bathroom mirror in morning light, smoothing sunscreen across his cheek
+       and jaw with two fingers — a clean, practiced application motion. A minimalist pump bottle of
+       sunscreen sits on the white marble counter. His expression is calm and deliberate. The morning
+       sun streams through a frosted window behind him, underlining exactly why this step matters.
+Style: Cinematic photography, high contrast, clean bright tones with warm morning light
+Lighting: Soft natural morning backlight through frosted glass, warm fill light on face from the front
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.
 Size: W1080 × H1350
 ```

@@ -14,12 +14,13 @@
 [PHOTO_PROMPT]
 Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes,
        strong jaw, Asian features, wearing a dark turtleneck or dark dress shirt (no suit jacket needed).
-Scene: The model sits at a meticulously organized premium home office desk, looking directly at a laptop
-       screen (camera angle is from the laptop's perspective — as if we are the video call recipient).
-       His posture is upright and composed. Desk has a premium pen, notepad, and subtle warm desk lamp.
-       The background behind him is clean — dark bookshelf or neutral wall, well-lit.
-Style: Cinematic photography, warm but controlled tones, intimate and professional, medium close-up
-Lighting: Soft ring light or key light from front (mimicking ideal video call lighting), warm tones
+Scene: Point-of-view shot from a laptop screen — we are the video call recipient seeing the model
+       directly. He leans slightly forward, elbows on the desk, speaking with focused conviction.
+       His face is evenly lit with no unflattering shadows. Clean background: dark bookshelf, warm lamp.
+       Upright posture, dark turtleneck, composed and sharp. This is exactly how a well-prepared
+       online meeting participant looks from the other side of the screen.
+Style: Cinematic photography, warm controlled tones, intimate and professional, medium close-up
+Lighting: Clean front key light (mimicking optimal ring light setup), eliminating harsh facial shadows
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.
 Size: W1080 × H1350
 ```

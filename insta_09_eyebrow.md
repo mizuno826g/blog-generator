@@ -14,11 +14,12 @@
 [PHOTO_PROMPT]
 Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes,
        strong jaw, Asian features, wearing a dark fitted dress shirt.
-Scene: Clean close-up portrait from shoulders up. The model's eyebrows are clearly well-groomed —
-       natural but neatly defined, giving a sharp and authoritative expression.
-       The focus is on the strong, clear facial features including the brow area.
-Style: Cinematic editorial portrait, sharp focus, high contrast, clean background
-Lighting: Even front lighting that clearly shows facial features including the brow line
+Scene: The model holds small grooming scissors in one hand and a narrow comb in the other, leaning
+       close to a magnifying mirror. His gaze is intently focused on his own brow line — a precise,
+       considered trimming gesture. The setup is minimal: dark counter, single mirror, good light.
+       The image communicates "a man who attends to every detail" without being fussy or feminine.
+Style: Cinematic photography, high contrast, sharp focus on the grooming gesture and brow area
+Lighting: Clean directional side light illuminating the face and the precision of the hands
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.
 Size: W1080 × H1350
 ```

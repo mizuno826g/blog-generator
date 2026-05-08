@@ -14,11 +14,12 @@
 [PHOTO_PROMPT]
 Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes,
        strong jaw, Asian features, wearing a dark charcoal suit with no tie, or crisp dark dress shirt.
-Scene: The model walks through a modern glass-walled office corridor, looking directly into the camera
-       with calm, authoritative confidence. Slight motion blur on background suggests purposeful movement.
-       He is about to enter a meeting. The expression is composed and commanding.
-Style: Cinematic photography, high contrast, cool-toned corporate aesthetic, sharp focus on face
-Lighting: Natural office light from the side, soft fill on face, clean and controlled
+Scene: The model extends his hand for a firm handshake at the entrance of a glass-walled boardroom.
+       Shot from just below eye level — his face is calm and commanding as he makes direct eye contact.
+       A blurred meeting table and suited figures are visible behind him. The moment of first contact.
+       Crisp suit, clean skin, composed expression — every detail speaks before a word is said.
+Style: Cinematic photography, high contrast, cool-toned corporate aesthetic, sharp focus on face and hand
+Lighting: Clean directional office light, soft fill on face, strong contrast defining the jaw and expression
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.
 Size: W1080 × H1350
 ```
