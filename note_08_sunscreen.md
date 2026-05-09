@@ -2,7 +2,7 @@
 
 [IMAGE_PROMPT]
 A premium Japanese men's grooming brand editorial thumbnail image.
-Aspect ratio: 16:9 (landscape / wide banner).
+Canvas size: W1280px × H670px (landscape banner).
 
 Layout:
 - Background: deep charcoal to black gradient, luxury dark aesthetic. Subtle warm amber glow
