@@ -1,4 +1,4 @@
-# 背筋が男の格を決める——40代の姿勢と体型が印象を支配する
+# 背筋が男の格を決める——40代からの姿勢と体型が印象を支配する
 
 ```
 [IMAGE_PROMPT]
@@ -7,7 +7,7 @@ Canvas size: W1280px × H670px (landscape banner).
 Layout:
 - Background: deep charcoal to black gradient, luxury dark aesthetic, subtle dark texture.
 - Left area (approx. 55% of width): Large bold white Japanese headline 「背筋が、男の格を決める。」
-  Gold subtext: 「40代の姿勢と体型——リーダーシップを可視化するボディ管理」
+  Gold subtext: 「40代からの姿勢と体型——リーダーシップを可視化するボディ管理」
   Badge: small rectangular label 「BELDANTE」in white outline.
 - Right area (approx. 45% of width): The fixed model (male early 50s, silver-gray slicked hair,
   full gray beard, Asian features, dark fitted dress shirt) standing in a doorway, deliberately
@@ -25,7 +25,7 @@ Note: No visible pixel dimensions or measurement labels anywhere.
 
 これは外見の問題ではなく、シグナルの問題だ。姿勢は「自己管理の水準」「自信の有無」「エネルギーレベル」を体で発信し続ける。猫背は「疲れている・弱い・やる気がない」を、直立した姿勢は「余裕・自信・支配力」を無言で伝える。
 
-40代の姿勢崩壊は意志の問題ではない。デスクワークと筋力低下という「構造的な問題」だ。だからこそ、構造的にアプローチする必要がある。
+40代からの姿勢崩壊は意志の問題ではない。デスクワークと筋力低下という「構造的な問題」だ。だからこそ、構造的にアプローチする必要がある。
 
 ---
 
@@ -43,7 +43,7 @@ Note: No visible pixel dimensions or measurement labels anywhere.
 
 ---
 
-## 40代の姿勢が崩れる構造的メカニズム
+## 40代からの姿勢が崩れる構造的メカニズム
 
 ### 原因①：長時間デスクワークによる筋肉バランスの崩壊
 

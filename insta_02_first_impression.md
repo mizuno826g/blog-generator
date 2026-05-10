@@ -138,7 +138,7 @@ Body text (below illustration frame, centered, line-height 1.7):
 くすみや目の下のクマは
 「活力のなさ」として読まれる。
 
-40代は同じ睡眠でも顔に疲れが出やすい。
+40代以降は同じ睡眠でも顔に疲れが出やすい。
 だからこそ、肌のマネジメントが必要になる。
 Font: Noto Sans JP Regular 22px for standard text.
 Emphasized words: 「くすみ」「クマ」「活力のなさ」「肌のマネジメント」 → Noto Sans JP Bold 24px.

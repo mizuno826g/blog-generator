@@ -1,5 +1,5 @@
 # Instagram スライド｜記事12
-# 40代男性の「歯の印象管理」——白く清潔な歯が、信頼感を底上げする
+# 40代からの男性の「歯の印象管理」——白く清潔な歯が、信頼感を底上げする
 
 ---
 
@@ -61,7 +61,7 @@ Emphasized: 「即座に読み取られる」「自己管理の放棄」 → Not
 
 ---
 
-## SLIDE 3｜原因：40代の歯が「劣化」するメカニズム
+## SLIDE 3｜原因：40代からの歯が「劣化」するメカニズム
 **Canvas:** W1080 × H1350
 
 ```
@@ -79,7 +79,7 @@ Layout:
 Content area (inside gray background, with generous top and bottom internal padding):
 
 Title:
-着色・歯石・歯周病——40代の歯に何が起きているか
+着色・歯石・歯周病——40代からの歯に何が起きているか
 Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
@@ -90,7 +90,7 @@ Each with a simple icon. Monochrome line art on white.
 
 Body text (below illustration frame, centered, line-height 1.7):
 着色は日常の蓄積。歯石は自分では除去不可能。
-歯周病は40代で急増し、最終的に歯を失う原因となる。
+歯周病は40代以降で急増し、最終的に歯を失う原因となる。
 Font: Noto Sans JP Regular 22px.
 Emphasized: 「歯石は自分では除去不可能」「歯を失う原因」 → Noto Sans JP Bold 24px.
 ```
@@ -277,7 +277,7 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 
 笑った瞬間、歯が評価される。
 
-40代男性の歯周病有病率は約6割。しかし多くの人が「痛くなったら歯医者に行く」という後手の管理をしている。
+40代からの男性の歯周病有病率は約6割。しかし多くの人が「痛くなったら歯医者に行く」という後手の管理をしている。
 
 ✔ 歯石は家庭では除去できない——3〜6ヶ月ごとに歯科でリセット
 ✔ 歯ブラシだけでは歯垢の40%しか落ちない——フロスを加える
@@ -286,6 +286,6 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 歯は失ってから後悔する。今が動くべきタイミングだ。
 詳細はプロフィールのリンクから。
 
-#歯の印象 #ビジネスマン清潔感 #40代男性 #歯周病予防 #ホワイトニング
+#歯の印象 #ビジネスマン清潔感 #40代からの男性 #歯周病予防 #ホワイトニング
 #メンズグルーミング #身だしなみ #清潔感 #エグゼクティブ #自己投資
-#印象管理 #デンタルケア #40代スキンケア #メンズケア #BELDANTE
+#印象管理 #デンタルケア #40代からのスキンケア #メンズケア #BELDANTE

@@ -1,4 +1,4 @@
-# 40代男性の「髪の印象管理」——白髪・薄毛は隠すより「制御」せよ
+# 40代からの男性の「髪の印象管理」——白髪・薄毛は隠すより「制御」せよ
 
 [IMAGE_PROMPT]
 A premium Japanese men's grooming brand editorial thumbnail image.
@@ -8,7 +8,7 @@ Layout:
 - Background: deep charcoal to black gradient, luxury dark aesthetic.
 - Left area (approx. 55% of width):
   Large bold white Japanese headline: 「白髪は、隠すものじゃない。」
-  Below headline: smaller gold subtext: 「40代の『髪の印象管理』——制御する戦略」
+  Below headline: smaller gold subtext: 「40代からの『髪の印象管理』——制御する戦略」
   Gold accent badge: 「グレー戦略×頭皮ケア×カットサイクル」
 - Right area (approx. 45% of width):
   Model: Male, early 50s, silver-gray hair sharply slicked back — the silver tone reads as
@@ -27,7 +27,7 @@ gold and white typography, premium Japanese business magazine feel.
 
 鏡の前で、自分の髪をじっくり見た最後はいつだろうか。
 
-40代のビジネスマンにとって、髪は「見た目の問題」ではない。相手が最初の3秒で下す「この人は自己管理ができているか」という判断の、最大の材料のひとつだ。
+40代からのビジネスマンにとって、髪は「見た目の問題」ではない。相手が最初の3秒で下す「この人は自己管理ができているか」という判断の、最大の材料のひとつだ。
 
 白髪が増えた、生え際が後退してきた、ボリュームが落ちた——そういった変化を「歳のせいだから仕方ない」と放置している人は多い。だが現実には、その放置が商談・面接・社内評価のあらゆる場面で、静かに印象コストを積み上げている。
 
@@ -35,7 +35,7 @@ gold and white typography, premium Japanese business magazine feel.
 
 ---
 
-## 40代の髪は、なぜ「管理が難しく」なるのか
+## 40代からの髪は、なぜ「管理が難しく」なるのか
 
 
 40代以降、髪には大きく3つの変化が同時進行する。
@@ -101,7 +101,7 @@ AGAの進行抑制には皮膚科での治療（ミノキシジル外用、フ�
 
 髪型が崩れる最大の理由は、カットの間隔が長すぎることだ。
 
-40代男性のビジネスヘアにおいて、「シルエットが整っている状態」を維持するには4〜6週ごとのカットが基準となる。特にサイドと襟足の伸びはシャープな印象を最も速く損なう部位であり、ここが整っているだけで「きちんとした人」という印象を安定させられる。
+40代からの男性のビジネスヘアにおいて、「シルエットが整っている状態」を維持するには4〜6週ごとのカットが基準となる。特にサイドと襟足の伸びはシャープな印象を最も速く損なう部位であり、ここが整っているだけで「きちんとした人」という印象を安定させられる。
 
 スタイリストへの指示も重要だ。「いつも通りで」という言葉は、担当者が変わるたびに仕上がりの品質にばらつきを生む。**顔型・生え方の癖・ビジネスシーンでの要件を言語化して伝えられる人**は、毎回一定以上のクオリティを維持できる。
 

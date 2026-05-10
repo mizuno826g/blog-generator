@@ -1,4 +1,4 @@
-# 手元は「もう一つの顔」——40代ビジネスマンの爪・手元の印象管理
+# 手元は「もう一つの顔」——40代からのビジネスマンの爪・手元の印象管理
 
 ```
 [IMAGE_PROMPT]
@@ -7,7 +7,7 @@ Canvas size: W1280px × H670px (landscape banner).
 Layout:
 - Background: deep charcoal to black gradient, luxury dark aesthetic, subtle dark texture.
 - Left area (approx. 55% of width): Large bold white Japanese headline 「手元は、もう一つの顔だ。」
-  Gold subtext: 「握手・名刺交換で差がつく40代の手元管理完全ガイド」
+  Gold subtext: 「握手・名刺交換で差がつく40代からの手元管理完全ガイド」
   Badge: small rectangular label 「BELDANTE」in white outline.
 - Right area (approx. 45% of width): The fixed model (male early 50s, silver-gray slicked hair,
   full gray beard, Asian features, dark suit) in a confident handshake — focus on well-maintained

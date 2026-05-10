@@ -1,4 +1,4 @@
-# 口臭は「見えない減点」——40代ビジネスマンが知るべき口臭対策の全て
+# 口臭は「見えない減点」——40代からのビジネスマンが知るべき口臭対策の全て
 
 ```
 [IMAGE_PROMPT]
@@ -7,7 +7,7 @@ Canvas size: W1280px × H670px (landscape banner).
 Layout:
 - Background: deep charcoal to black gradient, luxury dark aesthetic, subtle dark texture.
 - Left area (approx. 55% of width): Large bold white Japanese headline 「口臭は、見えない減点だ。」
-  Gold subtext: 「40代ビジネスマンの口臭対策完全ガイド」
+  Gold subtext: 「40代からのビジネスマンの口臭対策完全ガイド」
   Badge: small rectangular label 「BELDANTE」in white outline.
 - Right area (approx. 45% of width): The fixed model (male early 50s, silver-gray slicked hair,
   full gray beard, Asian features, dark suit) in a business meeting, leaning slightly forward
@@ -23,7 +23,7 @@ Note: No visible pixel dimensions or measurement labels anywhere.
 
 商談の場で、相手が微妙に距離を取った経験はないだろうか。プレゼンが終わった後、なぜか場の空気が重くなった気がした——その原因が自分の口臭だったとしたら、最悪のシナリオだ。
 
-口臭は本人には気づきにくく、しかし相手には確実に伝わる。顔・スーツ・髪が完璧でも、口を開いた瞬間に全てが台無しになる。40代ビジネスマンにとって、口臭対策は「清潔感の最終防衛線」だ。
+口臭は本人には気づきにくく、しかし相手には確実に伝わる。顔・スーツ・髪が完璧でも、口を開いた瞬間に全てが台無しになる。40代からのビジネスマンにとって、口臭対策は「清潔感の最終防衛線」だ。
 
 ---
 
@@ -33,11 +33,11 @@ Note: No visible pixel dimensions or measurement labels anywhere.
 
 心理学の研究では、不快な匂いを発する人物は、能力・信頼性・社会性の評価が全体的に下がることが示されている。口臭は「見えない減点」として、ビジネス上の関係性を静かに侵食し続ける。
 
-40代になると口臭リスクが高まる理由は3つある。
+40代以降になると口臭リスクが高まる理由は3つある。
 
 **①唾液分泌量の減少**：加齢により唾液の量が減る。唾液には口腔内の細菌を洗い流し、pH（酸性度）を中和する機能がある。これが低下すると、細菌が繁殖しやすくなる。
 
-**②歯周病リスクの上昇**：40代男性の口臭原因の約85%は歯周病由来とされる。歯周ポケットに溜まった細菌が揮発性硫黄化合物（VSC）を産生し、これが強烈な臭いの正体だ。
+**②歯周病リスクの上昇**：40代からの男性の口臭原因の約85%は歯周病由来とされる。歯周ポケットに溜まった細菌が揮発性硫黄化合物（VSC）を産生し、これが強烈な臭いの正体だ。
 
 **③生活習慣による悪化**：コーヒー・タバコ・アルコールは口腔内の乾燥と細菌増殖を促進する。昼食後の放置も、食べかすの腐敗による口臭を生む。
 

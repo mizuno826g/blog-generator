@@ -1,5 +1,5 @@
 # Instagram スライド｜記事18
-# 40代男性の「香りの戦略」——無臭か、計算された香りか。どちらが場を制するか
+# 40代からの男性の「香りの戦略」——無臭か、計算された香りか。どちらが場を制するか
 
 ---
 
@@ -8,7 +8,7 @@
 
 **テキスト（デザイン工程で画像に重ねる）:**
 - 大見出し：香りは、去った後も印象を残す。
-- サブタイトル：40代が知るべき「香りの戦略」
+- サブタイトル：40代以降が知るべき「香りの戦略」
 
 ```
 [PHOTO_PROMPT]
@@ -60,7 +60,7 @@ Emphasized: 「退室後も場に印象を残す」「もう一つのプレゼ�
 
 ---
 
-## SLIDE 3｜原因：40代の「香り問題」が複雑な理由
+## SLIDE 3｜原因：40代からの「香り問題」が複雑な理由
 **Canvas:** W1080 × H1350
 
 ```
@@ -75,7 +75,7 @@ Layout:
 Content area:
 
 Title:
-40代は「加齢臭」と「香水の重ね付け」の両方が課題になる。
+40代以降は「加齢臭」と「香水の重ね付け」の両方が課題になる。
 Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
@@ -130,7 +130,7 @@ Emphasized: 「手首と耳下1〜2プッシュ」「服に直接スプレーす
 
 ---
 
-## SLIDE 5｜解決策②：40代に似合う「香りの系統」を選ぶ
+## SLIDE 5｜解決策②：40代以降に似合う「香りの系統」を選ぶ
 **Canvas:** W1080 × H1350
 
 ```
@@ -145,7 +145,7 @@ Layout:
 Content area:
 
 Title:
-解決策②：40代ビジネスマンに最適な香りの系統
+解決策②：40代からのビジネスマンに最適な香りの系統
 Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
@@ -157,7 +157,7 @@ Inside the frame: Three scent category icons in a row:
 NG example: 「甘いフローラル・フルーティ系」with cross mark. Monochrome line art on white.
 
 Body text (centered, line-height 1.7):
-40代にはウッディ系・アクアティック系が最も信頼感と相性が良い。
+40代以降にはウッディ系・アクアティック系が最も信頼感と相性が良い。
 甘すぎる香りはビジネスシーンで「場違い」の印象を与えることがある。
 Font: Noto Sans JP Regular 22px.
 Emphasized: 「ウッディ系・アクアティック系が最も信頼感と相性が良い」 → Noto Sans JP Bold 24px.
@@ -270,6 +270,6 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 
 体臭ケアを前提に、香りを「設計」する。
 
-#香水 #メンズフレグランス #40代男性 #ビジネスマン清潔感 #印象管理
+#香水 #メンズフレグランス #40代からの男性 #ビジネスマン清潔感 #印象管理
 #香りの戦略 #身だしなみ #エグゼクティブ #自己投資 #清潔感
-#メンズグルーミング #フレグランス #40代メンズ #ビジネスパーソン #BELDANTE
+#メンズグルーミング #フレグランス #40代からのメンズ #ビジネスパーソン #BELDANTE

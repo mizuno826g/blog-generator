@@ -1,4 +1,4 @@
-# 髭の印象戦略——無精ひげと「整えた髭」の差が40代の評価を分ける
+# 髭の印象戦略——無精ひげと「整えた髭」の差が40代からの評価を分ける
 
 ```
 [IMAGE_PROMPT]
@@ -7,7 +7,7 @@ Canvas size: W1280px × H670px (landscape banner).
 Layout:
 - Background: deep charcoal to black gradient, luxury dark aesthetic, subtle dark texture.
 - Left area (approx. 55% of width): Large bold white Japanese headline 「無精ひげか、計算された髭か。」
-  Gold subtext: 「40代の髭が印象を決める——戦略的グルーミングガイド」
+  Gold subtext: 「40代からの髭が印象を決める——戦略的グルーミングガイド」
   Badge: small rectangular label 「BELDANTE」in white outline.
 - Right area (approx. 45% of width): The fixed model (male early 50s, silver-gray slicked hair,
   full trimmed gray beard, Asian features, dark turtleneck) in extreme close-up of lower face —
@@ -23,7 +23,7 @@ Note: No visible pixel dimensions or measurement labels anywhere.
 
 同じ3日分の髭でも、「整えてある」かどうかだけで印象は180度変わる。これは感覚論ではなく、複数の心理学・行動科学研究が示していることだ。
 
-整えられた髭は「成熟度・社会的地位・自己管理能力」の評価を高め、逆に放置された無精ひげは「怠慢・清潔感の欠如」のシグナルになる。40代ビジネスマンが髭を持つならば、それは「戦略」でなければならない。
+整えられた髭は「成熟度・社会的地位・自己管理能力」の評価を高め、逆に放置された無精ひげは「怠慢・清潔感の欠如」のシグナルになる。40代からのビジネスマンが髭を持つならば、それは「戦略」でなければならない。
 
 ---
 

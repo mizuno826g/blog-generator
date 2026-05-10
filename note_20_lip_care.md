@@ -1,4 +1,4 @@
-# 唇は「最後の盲点」——40代男性のリップケアが印象を完成させる
+# 唇は「最後の盲点」——40代からの男性のリップケアが印象を完成させる
 
 ```
 [IMAGE_PROMPT]
@@ -7,7 +7,7 @@ Canvas size: W1280px × H670px (landscape banner).
 Layout:
 - Background: deep charcoal to black gradient, luxury dark aesthetic, subtle dark texture.
 - Left area (approx. 55% of width): Large bold white Japanese headline 「唇の荒れは、粗雑さの証明だ。」
-  Gold subtext: 「40代が見落とす——リップケアが印象を完成させる理由」
+  Gold subtext: 「40代以降が見落とす——リップケアが印象を完成させる理由」
   Badge: small rectangular label 「BELDANTE」in white outline.
 - Right area (approx. 45% of width): The fixed model (male early 50s, silver-gray slicked hair,
   full gray beard, Asian features, dark dress shirt) applying lip balm — sleek minimal tube held
@@ -52,7 +52,7 @@ Note: No visible pixel dimensions or measurement labels anywhere.
 
 皮脂腺は肌表面を覆う皮脂膜（天然の保湿・バリア機能）を作る。顔の他の部位にはこれがあるが、唇だけにはない。つまり唇は「自力で保湿できない構造」になっている。
 
-これに加えて、40代特有のリスク要因がある。
+これに加えて、40代以降特有のリスク要因がある。
 
 **加齢による口周り筋の衰え**：口周りの筋力が低下すると口が開きやすくなり、口呼吸が増える。口呼吸は唇を乾燥させる最大の原因の一つだ。
 

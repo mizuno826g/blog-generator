@@ -1,5 +1,5 @@
 # Instagram スライド｜記事01
-# 清潔感は武器になる。40代ビジネスマンのスキンケア入門
+# 清潔感は武器になる。40代からのビジネスマンのスキンケア入門
 
 ---
 
@@ -8,7 +8,7 @@
 
 **テキスト（デザイン工程で画像に重ねる）:**
 - 大見出し：清潔感は、武器になる。
-- サブタイトル：40代ビジネスマンのスキンケア入門
+- サブタイトル：40代からのビジネスマンのスキンケア入門
 
 ```
 [PHOTO_PROMPT]
@@ -62,7 +62,7 @@ Emphasized words: 「肌」「評価」 → Noto Sans JP Bold 24px.
 
 ---
 
-## SLIDE 3｜40代の肌変化
+## SLIDE 3｜40代からの肌変化
 **Canvas:** W1080 × H1350
 
 ```
@@ -80,7 +80,7 @@ Layout:
 Content area (inside gray background, with generous top and bottom internal padding):
 
 Title:
-40代の肌が発している「疲弊のサイン」
+40代からの肌が発している「疲弊のサイン」
 Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
@@ -94,7 +94,7 @@ arrow beneath labeled area. A bold horizontal arrow between the two faces points
 Black outlines only, no gray fill, pure white background within frame.
 
 Body text (below illustration frame, centered, line-height 1.7):
-40代になると、肌のターンオーバーが遅くなる。
+40代以降になると、肌のターンオーバーが遅くなる。
 テカリ・くすみ・目の下のクマ——
 これらは「疲弊」と「隙」のサインとして
 相手に無意識に読まれている。
@@ -329,7 +329,7 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 |---|--------|--------|
 | 1 | サムネイル（写真） | W1080 × H1350 |
 | 2 | 問題提起 | W1080 × H1350 |
-| 3 | 40代の肌変化 | W1080 × H1350 |
+| 3 | 40代からの肌変化 | W1080 × H1350 |
 | 4 | STEP 1 洗顔 | W1080 × H1350 |
 | 5 | STEP 2 化粧水 | W1080 × H1350 |
 | 6 | STEP 3 保湿 | W1080 × H1350 |

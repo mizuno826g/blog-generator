@@ -1,4 +1,4 @@
-# 保湿は「肌の武装」——40代男性が保湿を正しく使えば、印象が一変する
+# 保湿は「肌の武装」——40代からの男性が保湿を正しく使えば、印象が一変する
 
 ```
 [IMAGE_PROMPT]
@@ -7,7 +7,7 @@ Canvas size: W1280px × H670px (landscape banner).
 Layout:
 - Background: deep charcoal to black gradient, luxury dark aesthetic, subtle dark texture.
 - Left area (approx. 55% of width): Large bold white Japanese headline 「保湿は、肌の武装だ。」
-  Gold subtext: 「40代の乾燥肌を制御する正しい保湿完全ガイド」
+  Gold subtext: 「40代からの乾燥肌を制御する正しい保湿完全ガイド」
   Badge: small rectangular label 「BELDANTE」in white outline.
 - Right area (approx. 45% of width): The fixed model (male early 50s, silver-gray slicked hair,
   full gray beard, Asian features, dark dress shirt) at a bathroom mirror applying moisturizer —
@@ -22,11 +22,11 @@ Note: No visible pixel dimensions or measurement labels anywhere.
 
 ## はじめに
 
-「保湿すると脂っぽくなる」——この誤解が、40代男性の肌コンディションを悪化させている。
+「保湿すると脂っぽくなる」——この誤解が、40代からの男性の肌コンディションを悪化させている。
 
 実際は逆だ。保湿をしないと肌が乾燥し、それを補おうと皮脂が過剰分泌される。その結果がテカリだ。テカリが気になる人ほど、実は保湿が必要な状態にある。
 
-40代の正しい保湿を理解することは、肌の自己管理の土台であり、外見コンディションを安定させる最も確実な方法だ。
+40代からの正しい保湿を理解することは、肌の自己管理の土台であり、外見コンディションを安定させる最も確実な方法だ。
 
 ---
 
@@ -44,11 +44,11 @@ Note: No visible pixel dimensions or measurement labels anywhere.
 
 ---
 
-## 40代の肌が「乾燥しやすい」科学的理由
+## 40代からの肌が「乾燥しやすい」科学的理由
 
 ### セラミドの減少
 
-セラミドは角質層の細胞間を埋める脂質で、肌の水分保持機能の中核を担う。20代から40代にかけてセラミドは約50%減少するとされており、同じ生活をしていても40代では水分が蒸発しやすい状態になっている。
+セラミドは角質層の細胞間を埋める脂質で、肌の水分保持機能の中核を担う。20代から40代以降にかけてセラミドは約50%減少するとされており、同じ生活をしていても40代以降では水分が蒸発しやすい状態になっている。
 
 ### ターンオーバーの遅延
 
@@ -56,7 +56,7 @@ Note: No visible pixel dimensions or measurement labels anywhere.
 
 ### 環境・生活習慣の影響
 
-エアコン・暖房による室内乾燥、コーヒー・アルコールによる体内乾燥、デスクワークによる顔への空調直風——これらが複合的に40代の肌乾燥を加速させている。
+エアコン・暖房による室内乾燥、コーヒー・アルコールによる体内乾燥、デスクワークによる顔への空調直風——これらが複合的に40代からの肌乾燥を加速させている。
 
 ---
 
@@ -96,7 +96,7 @@ Note: No visible pixel dimensions or measurement labels anywhere.
 **②閉塞成分（水分の蒸発を防ぐ）**：ワセリン・スクワラン・シリコン  
 **③エモリエント成分（肌を柔らかくする）**：ホホバオイル・シア脂・コレステロール
 
-理想的な保湿剤はこの3カテゴリをバランスよく含むものだ。特に40代にはセラミド配合の製品を選ぶことを推奨する。減少したセラミドを外部から補うことで、バリア機能が改善される。
+理想的な保湿剤はこの3カテゴリをバランスよく含むものだ。特に40代以降にはセラミド配合の製品を選ぶことを推奨する。減少したセラミドを外部から補うことで、バリア機能が改善される。
 
 ---
 

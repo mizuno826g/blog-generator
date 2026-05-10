@@ -1,4 +1,4 @@
-# 香りは「記憶に残る名刺」——40代ビジネスマンの香りの戦略
+# 香りは「記憶に残る名刺」——40代からのビジネスマンの香りの戦略
 
 ```
 [IMAGE_PROMPT]
@@ -7,7 +7,7 @@ Canvas size: W1280px × H670px (landscape banner).
 Layout:
 - Background: deep charcoal to black gradient, luxury dark aesthetic, subtle dark texture.
 - Left area (approx. 55% of width): Large bold white Japanese headline 「香りは、去った後も印象を残す。」
-  Gold subtext: 「40代が知るべき香りの戦略——無臭か計算された香りか」
+  Gold subtext: 「40代以降が知るべき香りの戦略——無臭か計算された香りか」
   Badge: small rectangular label 「BELDANTE」in white outline.
 - Right area (approx. 45% of width): The fixed model (male early 50s, silver-gray slicked hair,
   full gray beard, Asian features, dark fitted jacket) applying fragrance — holding a dark glass
@@ -44,9 +44,9 @@ Note: No visible pixel dimensions or measurement labels anywhere.
 
 ---
 
-## 40代の「香り問題」：加齢臭と香水の関係
+## 40代からの「香り問題」：加齢臭と香水の関係
 
-40代になると特有の香りの課題が生まれる。加齢臭（ノネナールという成分が原因）は、首の後ろ・頭皮・耳周りから発生しやすい。
+40代以降になると特有の香りの課題が生まれる。加齢臭（ノネナールという成分が原因）は、首の後ろ・頭皮・耳周りから発生しやすい。
 
 多くの人が「加齰臭を香水でカバーしよう」と考えるが、これは誤りだ。加齢臭の上に香水を重ねると、不快な臭いが混合されて最悪の状態になる。
 
@@ -62,7 +62,7 @@ Note: No visible pixel dimensions or measurement labels anywhere.
 
 ## 香りの設計：系統・量・場所
 
-### 40代ビジネスマンに最適な香りの系統
+### 40代からのビジネスマンに最適な香りの系統
 
 | 系統 | 特徴 | ビジネス適性 |
 |------|------|------------|

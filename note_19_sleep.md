@@ -1,4 +1,4 @@
-# 睡眠が翌朝の顔を作る——40代の外見コンディションは「睡眠」で決まる
+# 睡眠が翌朝の顔を作る——40代からの外見コンディションは「睡眠」で決まる
 
 ```
 [IMAGE_PROMPT]
@@ -7,7 +7,7 @@ Canvas size: W1280px × H670px (landscape banner).
 Layout:
 - Background: deep charcoal to black gradient, luxury dark aesthetic, subtle dark texture.
 - Left area (approx. 55% of width): Large bold white Japanese headline 「睡眠が、翌朝の顔を作る。」
-  Gold subtext: 「40代の外見コンディション——睡眠の質が印象を支配する」
+  Gold subtext: 「40代からの外見コンディション——睡眠の質が印象を支配する」
   Badge: small rectangular label 「BELDANTE」in white outline.
 - Right area (approx. 45% of width): The fixed model (male early 50s, silver-gray slicked hair,
   full gray beard, Asian features, dark fitted dress shirt) standing at a bathroom mirror in
@@ -26,7 +26,7 @@ Note: No visible pixel dimensions or measurement labels anywhere.
 
 どれだけ高品質なスキンケアをしていても、睡眠の質が低ければ翌朝のコンディションは確実に低下する。逆に言えば、睡眠の質を管理することは、最も費用対効果の高い外見投資だ。
 
-40代になると睡眠の「量」より「質」が問題になってくる。深睡眠の割合が20代と比べて30〜40%減少し、成長ホルモンの分泌量も低下する。だからこそ、睡眠の質を意識的に設計する必要がある。
+40代以降になると睡眠の「量」より「質」が問題になってくる。深睡眠の割合が20代と比べて30〜40%減少し、成長ホルモンの分泌量も低下する。だからこそ、睡眠の質を意識的に設計する必要がある。
 
 ---
 
@@ -74,7 +74,7 @@ Note: No visible pixel dimensions or measurement labels anywhere.
 | 室温 | 18〜22℃ | 深部体温の低下に適した環境温度 |
 | 暗さ | 完全遮光が理想 | わずかな光でもメラトニン分泌が抑制される |
 | 音 | 静寂またはホワイトノイズ | 突然の音は浅い睡眠を引き起こす |
-| 寝具 | 体温に応じた調整 | 40代は発汗量が増えるため吸湿素材を推奨 |
+| 寝具 | 体温に応じた調整 | 40代以降は発汗量が増えるため吸湿素材を推奨 |
 
 ### 設計③：起床時刻の固定化
 
@@ -100,8 +100,8 @@ Note: No visible pixel dimensions or measurement labels anywhere.
 
 ## よくある質問
 
-**Q：40代になって眠れなくなりました。どうすればいいですか？**
-A：40代の睡眠障害の多くは「就寝前のスクリーン使用」「アルコールの睡眠への悪影響」「コルチゾール過多（慢性ストレス）」が原因です。まずこの3点を改善することを推奨します。改善しない場合は睡眠専門医への相談を検討してください。
+**Q：40代以降になって眠れなくなりました。どうすればいいですか？**
+A：40代からの睡眠障害の多くは「就寝前のスクリーン使用」「アルコールの睡眠への悪影響」「コルチゾール過多（慢性ストレス）」が原因です。まずこの3点を改善することを推奨します。改善しない場合は睡眠専門医への相談を検討してください。
 
 **Q：お酒を飲むとよく眠れる気がします。**
 A：アルコールは入眠を早めますが、睡眠の後半（深睡眠が多い時間帯）を分断させます。成長ホルモン分泌も抑制されます。「よく眠れた感覚」は誤りで、実際の睡眠の質は低下しています。
