@@ -18,6 +18,10 @@ Scene: The model stands before a dark mirror, fingers working a small amount of 
        silver hair — slicking it back with a precise, deliberate motion. Eyes focused on his own
        reflection. The gesture is confident and practiced. A simple comb rests on the dark counter.
        The silver-gray hair catches the light as it takes shape — not messy, not stiff. Controlled.
+Framing: Portrait composition. The model's face and head are centered in the upper half of the
+         frame (above the vertical midpoint). Chest and torso extend into the lower portion.
+         The lower 40% of the image should be relatively uncluttered — body, hands, or dark
+         background — leaving visual space for text overlay in post-production.
 Style: Cinematic editorial portrait, high contrast, sharp focus on hair texture and the styling gesture
 Lighting: Warm side light emphasizing the silver hair's sheen and the deliberate motion of the hands
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.

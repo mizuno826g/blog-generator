@@ -18,6 +18,10 @@ Scene: The model stands before a tall full-length mirror in a premium hotel room
        the lapel of his perfectly tailored dark charcoal suit. His reflection shows the full look —
        crisp white shirt, sharp collar, fitted jacket. An expression of calm final inspection before
        stepping out. Shoes subtly visible at the bottom — polished to a mirror finish.
+Framing: Portrait composition. The model's face and head are centered in the upper half of the
+         frame (above the vertical midpoint). Chest and torso extend into the lower portion.
+         The lower 40% of the image should be relatively uncluttered — body, hands, or dark
+         background — leaving visual space for text overlay in post-production.
 Style: Cinematic photography, high contrast, dark premium aesthetic, sharp focus on suit fit and reflection
 Lighting: Warm side light highlighting fabric texture and the precise silhouette of the suit
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.

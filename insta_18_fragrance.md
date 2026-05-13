@@ -17,6 +17,10 @@ Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, 
 Scene: The model applies fragrance — holding a dark glass perfume bottle, one wrist raised slightly,
        misting the inner wrist with focused deliberateness. The gesture is precise and unhurried.
        Dark marble surface, minimal objects. The act conveys ritual, not vanity.
+Framing: Portrait composition. The model's face and head are centered in the upper half of the
+         frame (above the vertical midpoint). Chest and torso extend into the lower portion.
+         The lower 40% of the image should be relatively uncluttered — body, hands, or dark
+         background — leaving visual space for text overlay in post-production.
 Style: Cinematic photography, high contrast, warm dark tones, luxury editorial aesthetic
 Lighting: Soft warm side light catching the glass bottle and wrist in subtle highlight
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.

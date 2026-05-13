@@ -17,6 +17,10 @@ Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, 
 Scene: The model applies lip balm — a sleek minimal tube held between two fingers, touching the
        lower lip with deliberate precision. The gesture is controlled and unhurried, not cosmetic
        but clinical. Dark minimal background, editorial composition.
+Framing: Portrait composition. The model's face and head are centered in the upper half of the
+         frame (above the vertical midpoint). Chest and torso extend into the lower portion.
+         The lower 40% of the image should be relatively uncluttered — body, hands, or dark
+         background — leaving visual space for text overlay in post-production.
 Style: Cinematic photography, high contrast, warm dark tones, luxury aesthetic
 Lighting: Soft warm directional light highlighting the lip area and the product
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.

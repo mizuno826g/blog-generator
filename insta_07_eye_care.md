@@ -18,6 +18,10 @@ Scene: The model sits at a bathroom vanity in soft morning light, applying eye c
        finger — gentle tapping motion along the under-eye area. His eyes are slightly downcast in
        focused concentration. A small dark glass jar of eye cream sits open on the marble counter.
        The gesture is precise and deliberate. Close to medium shot showing the face and hand clearly.
+Framing: Portrait composition. The model's face and head are centered in the upper half of the
+         frame (above the vertical midpoint). Chest and torso extend into the lower portion.
+         The lower 40% of the image should be relatively uncluttered — body, hands, or dark
+         background — leaving visual space for text overlay in post-production.
 Style: Cinematic photography, high contrast, intimate morning-care aesthetic, warm tones
 Lighting: Soft diffused morning window light from the side, clean and gentle — flattering the eye area
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.

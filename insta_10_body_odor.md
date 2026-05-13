@@ -18,6 +18,10 @@ Scene: The model stands in a premium dark-tiled shower, water running, head tilt
        thoroughly lathering the back of his neck and behind his ear with deliberate focus.
        Shot from the chest up, minimal steam around him. The gesture is methodical, not casual.
        The image conveys conscious, targeted hygiene — not a routine scrub, but a precise ritual.
+Framing: Portrait composition. The model's face and head are centered in the upper half of the
+         frame (above the vertical midpoint). Chest and torso extend into the lower portion.
+         The lower 40% of the image should be relatively uncluttered — body, hands, or dark
+         background — leaving visual space for text overlay in post-production.
 Style: Cinematic photography, high contrast, clean dark tones, intimate and controlled aesthetic
 Lighting: Soft diffused overhead light through steam, clean and controlled — no harsh shadows
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.

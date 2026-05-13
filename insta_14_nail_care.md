@@ -17,6 +17,10 @@ Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, 
 Scene: Close-up of the model's hands in a handshake — one hand extended firmly and confidently.
        The nails are clean, short, and well-maintained. The skin on the hands is moisturized and
        smooth, not rough or cracked. The handshake conveys authority through the hand itself.
+Framing: Portrait composition. The model's face and head are centered in the upper half of the
+         frame (above the vertical midpoint). Chest and torso extend into the lower portion.
+         The lower 40% of the image should be relatively uncluttered — body, hands, or dark
+         background — leaving visual space for text overlay in post-production.
 Style: Cinematic photography, high contrast, warm dark tones, sharp focus on the hands
 Lighting: Warm directional light highlighting hand texture and nail condition
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.

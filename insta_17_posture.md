@@ -17,6 +17,10 @@ Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, 
 Scene: The model stands in a doorway or corridor, deliberately straightening his posture —
        shoulders rolled back, chest open, spine aligned. One hand lightly touches the doorframe.
        The stance radiates authority and composure. Dark architectural background, cinematic framing.
+Framing: Portrait composition. The model's face and head are centered in the upper half of the
+         frame (above the vertical midpoint). Chest and torso extend into the lower portion.
+         The lower 40% of the image should be relatively uncluttered — body, hands, or dark
+         background — leaving visual space for text overlay in post-production.
 Style: Cinematic photography, high contrast, warm dark tones, luxury aesthetic
 Lighting: Dramatic directional light emphasizing posture silhouette and body presence
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.

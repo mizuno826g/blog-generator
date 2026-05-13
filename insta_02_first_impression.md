@@ -18,6 +18,10 @@ Scene: The model extends his hand for a firm handshake at the entrance of a glas
        Shot from just below eye level — his face is calm and commanding as he makes direct eye contact.
        A blurred meeting table and suited figures are visible behind him. The moment of first contact.
        Crisp suit, clean skin, composed expression — every detail speaks before a word is said.
+Framing: Portrait composition. The model's face and head are centered in the upper half of the
+         frame (above the vertical midpoint). Chest and torso extend into the lower portion.
+         The lower 40% of the image should be relatively uncluttered — body, hands, or dark
+         background — leaving visual space for text overlay in post-production.
 Style: Cinematic photography, high contrast, cool-toned corporate aesthetic, sharp focus on face and hand
 Lighting: Clean directional office light, soft fill on face, strong contrast defining the jaw and expression
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.

@@ -17,6 +17,10 @@ Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, 
 Scene: The model is smiling with controlled confidence — a closed-mouth or slightly open smile
        that reveals clean, white, well-maintained teeth. The smile reads as authority and warmth
        simultaneously. Shot from mid-chest up, dark background, cinematic portrait lighting.
+Framing: Portrait composition. The model's face and head are centered in the upper half of the
+         frame (above the vertical midpoint). Chest and torso extend into the lower portion.
+         The lower 40% of the image should be relatively uncluttered — body, hands, or dark
+         background — leaving visual space for text overlay in post-production.
 Style: Cinematic photography, high contrast, warm dark tones, editorial quality
 Lighting: Warm side key light with soft fill — the smile and teeth are clearly visible, well-lit
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.

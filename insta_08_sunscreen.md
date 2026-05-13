@@ -18,6 +18,10 @@ Scene: The model stands at a bathroom mirror in morning light, smoothing sunscre
        and jaw with two fingers — a clean, practiced application motion. A minimalist pump bottle of
        sunscreen sits on the white marble counter. His expression is calm and deliberate. The morning
        sun streams through a frosted window behind him, underlining exactly why this step matters.
+Framing: Portrait composition. The model's face and head are centered in the upper half of the
+         frame (above the vertical midpoint). Chest and torso extend into the lower portion.
+         The lower 40% of the image should be relatively uncluttered — body, hands, or dark
+         background — leaving visual space for text overlay in post-production.
 Style: Cinematic photography, high contrast, clean bright tones with warm morning light
 Lighting: Soft natural morning backlight through frosted glass, warm fill light on face from the front
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.

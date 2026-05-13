@@ -17,6 +17,10 @@ Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, 
 Scene: Close-up portrait focusing on the lower face — the beard is sharply defined, cleanly lined
        along the jaw and neck. The trimming is precise: neither overgrown nor too sparse. The beard
        reads as deliberate and controlled, not neglected. Dark background, editorial feel.
+Framing: Portrait composition. The model's face and head are centered in the upper half of the
+         frame (above the vertical midpoint). Chest and torso extend into the lower portion.
+         The lower 40% of the image should be relatively uncluttered — body, hands, or dark
+         background — leaving visual space for text overlay in post-production.
 Style: Cinematic photography, extreme close-up, high contrast, warm dark tones
 Lighting: Dramatic side light emphasizing beard texture and jaw definition
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.

@@ -18,6 +18,10 @@ Scene: The model holds small grooming scissors in one hand and a narrow comb in 
        close to a magnifying mirror. His gaze is intently focused on his own brow line — a precise,
        considered trimming gesture. The setup is minimal: dark counter, single mirror, good light.
        The image communicates "a man who attends to every detail" without being fussy or feminine.
+Framing: Portrait composition. The model's face and head are centered in the upper half of the
+         frame (above the vertical midpoint). Chest and torso extend into the lower portion.
+         The lower 40% of the image should be relatively uncluttered — body, hands, or dark
+         background — leaving visual space for text overlay in post-production.
 Style: Cinematic photography, high contrast, sharp focus on the grooming gesture and brow area
 Lighting: Clean directional side light illuminating the face and the precision of the hands
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.

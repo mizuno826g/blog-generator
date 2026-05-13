@@ -19,6 +19,10 @@ Scene: Point-of-view shot from a laptop screen — we are the video call recipie
        His face is evenly lit with no unflattering shadows. Clean background: dark bookshelf, warm lamp.
        Upright posture, dark turtleneck, composed and sharp. This is exactly how a well-prepared
        online meeting participant looks from the other side of the screen.
+Framing: Portrait composition. The model's face and head are centered in the upper half of the
+         frame (above the vertical midpoint). Chest and torso extend into the lower portion.
+         The lower 40% of the image should be relatively uncluttered — body, hands, or dark
+         background — leaving visual space for text overlay in post-production.
 Style: Cinematic photography, warm controlled tones, intimate and professional, medium close-up
 Lighting: Clean front key light (mimicking optimal ring light setup), eliminating harsh facial shadows
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.

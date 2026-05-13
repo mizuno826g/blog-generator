@@ -17,6 +17,10 @@ Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, 
 Scene: The model stands at a bathroom mirror applying moisturizer — both hands pressing gently
        against his cheeks and jaw with deliberate, upward strokes. A sleek dark glass bottle sits
        on the marble counter. The motion is controlled and practiced. Morning light from the side.
+Framing: Portrait composition. The model's face and head are centered in the upper half of the
+         frame (above the vertical midpoint). Chest and torso extend into the lower portion.
+         The lower 40% of the image should be relatively uncluttered — body, hands, or dark
+         background — leaving visual space for text overlay in post-production.
 Style: Cinematic photography, high contrast, warm dark tones, luxury aesthetic
 Lighting: Soft warm side light emphasizing skin texture and the deliberate application motion
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.

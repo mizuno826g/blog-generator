@@ -301,6 +301,10 @@ gold and white typography, premium Japanese business magazine feel.
 Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes,
        strong jaw, Asian features, wearing black turtleneck or dark clothing.
 Scene: [各記事に応じたシーン説明]
+Framing: Portrait composition. The model's face and head are centered in the upper half of the
+         frame (above the vertical midpoint). Chest and torso extend into the lower portion.
+         The lower 40% of the image should be relatively uncluttered — body, hands, or dark
+         background — leaving visual space for text overlay in post-production.
 Style: Cinematic photography, high contrast, luxury aesthetic, warm dark tones
 Lighting: [ライティング指示]
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.

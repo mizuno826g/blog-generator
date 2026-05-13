@@ -17,6 +17,10 @@ Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, 
 Scene: The model sits across a boardroom table in close conversation with a blurred business partner.
        He leans slightly forward, speaking with quiet authority. The proximity of the conversation
        makes the scene feel intimate — the kind of moment where breath matters completely.
+Framing: Portrait composition. The model's face and head are centered in the upper half of the
+         frame (above the vertical midpoint). Chest and torso extend into the lower portion.
+         The lower 40% of the image should be relatively uncluttered — body, hands, or dark
+         background — leaving visual space for text overlay in post-production.
 Style: Cinematic photography, high contrast, warm dark corporate tones, editorial quality
 Lighting: Warm overhead boardroom light, soft fill on the face, intimate and controlled
 Note: Clean full-bleed photo only. No text, no overlay band, no dark strip at bottom.
