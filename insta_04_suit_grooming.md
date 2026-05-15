@@ -38,12 +38,14 @@ Size: W1080 × H1350
 A clean, professional Japanese business infographic slide.
 Aspect ratio: 4:5 (portrait). Do not render any dimension labels, rulers, arrows, or numeric annotations anywhere on the image.
 
-Layout:
-- Top bar: solid black rectangle spanning the full width. Thin strip at the very top — height is approximately 3% of the total canvas height.
-- Main background: flat light gray (#D0D0D0), fills the large middle section between the two black bars.
-- Bottom bar: solid black rectangle spanning the full width. Thick strip at the very bottom — height is approximately 8% of the total canvas height (about 2.5× the top bar height).
-  Left side of bottom bar: "BELDANTE" in white, Noto Sans JP Black, large — left-aligned with generous left padding, vertically centered.
-  Right side of bottom bar: "NEXT" in white, Noto Sans JP Black, large, followed by a white hand icon showing a human index finger pointing horizontally to the right (a pointing gesture, not a mouse cursor). Right-aligned with generous right padding, vertically centered.
+Layout (follow exactly — do not alter proportions, colors, or bottom bar content):
+- Top bar: solid black (#000000) rectangle spanning the full canvas width, flush to the very top edge. Height = exactly 3% of total canvas height. Contains NO text and NO icons.
+- Main background: solid flat light gray (#D0D0D0), fills all space between the two black bars. No gradients, no texture.
+- Bottom bar: solid black (#000000) rectangle spanning the full canvas width, flush to the very bottom edge. Height = exactly 8% of total canvas height (roughly 2.5× taller than the top bar).
+  The bottom bar contains ONLY the following two elements — render nothing else inside it:
+  LEFT: display the word BELDANTE in white, large bold lettering, left-aligned with generous left padding, vertically centered in the bar.
+  RIGHT: display the word NEXT in white, large bold lettering, immediately followed by a white icon of a human hand with the index finger pointing horizontally to the right (a natural pointing gesture — NOT a mouse cursor or arrow). Right-aligned with generous right padding, vertically centered in the bar.
+  CRITICAL: Do NOT render font names, sizes, style labels, or any descriptive text inside the bottom bar. Only "BELDANTE" on the left and "NEXT + hand icon" on the right.
 
 Content area (inside gray background, with generous top and bottom internal padding):
 
@@ -79,12 +81,14 @@ Emphasized words: 「フィット感・清潔感・状態」 → Noto Sans JP Bo
 A clean, professional Japanese business infographic slide.
 Aspect ratio: 4:5 (portrait). Do not render any dimension labels, rulers, arrows, or numeric annotations anywhere on the image.
 
-Layout:
-- Top bar: solid black rectangle spanning the full width. Thin strip at the very top — height is approximately 3% of the total canvas height.
-- Main background: flat light gray (#D0D0D0), fills the large middle section between the two black bars.
-- Bottom bar: solid black rectangle spanning the full width. Thick strip at the very bottom — height is approximately 8% of the total canvas height (about 2.5× the top bar height).
-  Left side of bottom bar: "BELDANTE" in white, Noto Sans JP Black, large — left-aligned with generous left padding, vertically centered.
-  Right side of bottom bar: "NEXT" in white, Noto Sans JP Black, large, followed by a white hand icon showing a human index finger pointing horizontally to the right (a pointing gesture, not a mouse cursor). Right-aligned with generous right padding, vertically centered.
+Layout (follow exactly — do not alter proportions, colors, or bottom bar content):
+- Top bar: solid black (#000000) rectangle spanning the full canvas width, flush to the very top edge. Height = exactly 3% of total canvas height. Contains NO text and NO icons.
+- Main background: solid flat light gray (#D0D0D0), fills all space between the two black bars. No gradients, no texture.
+- Bottom bar: solid black (#000000) rectangle spanning the full canvas width, flush to the very bottom edge. Height = exactly 8% of total canvas height (roughly 2.5× taller than the top bar).
+  The bottom bar contains ONLY the following two elements — render nothing else inside it:
+  LEFT: display the word BELDANTE in white, large bold lettering, left-aligned with generous left padding, vertically centered in the bar.
+  RIGHT: display the word NEXT in white, large bold lettering, immediately followed by a white icon of a human hand with the index finger pointing horizontally to the right (a natural pointing gesture — NOT a mouse cursor or arrow). Right-aligned with generous right padding, vertically centered in the bar.
+  CRITICAL: Do NOT render font names, sizes, style labels, or any descriptive text inside the bottom bar. Only "BELDANTE" on the left and "NEXT + hand icon" on the right.
 
 Content area (inside gray background, with generous top and bottom internal padding):
 
@@ -120,12 +124,14 @@ Emphasized words: 「だらしない」「自己管理ができていない」 �
 A clean, professional Japanese business infographic slide.
 Aspect ratio: 4:5 (portrait). Do not render any dimension labels, rulers, arrows, or numeric annotations anywhere on the image.
 
-Layout:
-- Top bar: solid black rectangle spanning the full width. Thin strip at the very top — height is approximately 3% of the total canvas height.
-- Main background: flat light gray (#D0D0D0), fills the large middle section between the two black bars.
-- Bottom bar: solid black rectangle spanning the full width. Thick strip at the very bottom — height is approximately 8% of the total canvas height (about 2.5× the top bar height).
-  Left side of bottom bar: "BELDANTE" in white, Noto Sans JP Black, large — left-aligned with generous left padding, vertically centered.
-  Right side of bottom bar: "NEXT" in white, Noto Sans JP Black, large, followed by a white hand icon showing a human index finger pointing horizontally to the right (a pointing gesture, not a mouse cursor). Right-aligned with generous right padding, vertically centered.
+Layout (follow exactly — do not alter proportions, colors, or bottom bar content):
+- Top bar: solid black (#000000) rectangle spanning the full canvas width, flush to the very top edge. Height = exactly 3% of total canvas height. Contains NO text and NO icons.
+- Main background: solid flat light gray (#D0D0D0), fills all space between the two black bars. No gradients, no texture.
+- Bottom bar: solid black (#000000) rectangle spanning the full canvas width, flush to the very bottom edge. Height = exactly 8% of total canvas height (roughly 2.5× taller than the top bar).
+  The bottom bar contains ONLY the following two elements — render nothing else inside it:
+  LEFT: display the word BELDANTE in white, large bold lettering, left-aligned with generous left padding, vertically centered in the bar.
+  RIGHT: display the word NEXT in white, large bold lettering, immediately followed by a white icon of a human hand with the index finger pointing horizontally to the right (a natural pointing gesture — NOT a mouse cursor or arrow). Right-aligned with generous right padding, vertically centered in the bar.
+  CRITICAL: Do NOT render font names, sizes, style labels, or any descriptive text inside the bottom bar. Only "BELDANTE" on the left and "NEXT + hand icon" on the right.
 
 Content area (inside gray background, with generous top and bottom internal padding):
 
@@ -161,12 +167,14 @@ Emphasized words: 「1〜1.5cm」「2〜3年に一度」 → Noto Sans JP Bold 2
 A clean, professional Japanese business infographic slide.
 Aspect ratio: 4:5 (portrait). Do not render any dimension labels, rulers, arrows, or numeric annotations anywhere on the image.
 
-Layout:
-- Top bar: solid black rectangle spanning the full width. Thin strip at the very top — height is approximately 3% of the total canvas height.
-- Main background: flat light gray (#D0D0D0), fills the large middle section between the two black bars.
-- Bottom bar: solid black rectangle spanning the full width. Thick strip at the very bottom — height is approximately 8% of the total canvas height (about 2.5× the top bar height).
-  Left side of bottom bar: "BELDANTE" in white, Noto Sans JP Black, large — left-aligned with generous left padding, vertically centered.
-  Right side of bottom bar: "NEXT" in white, Noto Sans JP Black, large, followed by a white hand icon showing a human index finger pointing horizontally to the right (a pointing gesture, not a mouse cursor). Right-aligned with generous right padding, vertically centered.
+Layout (follow exactly — do not alter proportions, colors, or bottom bar content):
+- Top bar: solid black (#000000) rectangle spanning the full canvas width, flush to the very top edge. Height = exactly 3% of total canvas height. Contains NO text and NO icons.
+- Main background: solid flat light gray (#D0D0D0), fills all space between the two black bars. No gradients, no texture.
+- Bottom bar: solid black (#000000) rectangle spanning the full canvas width, flush to the very bottom edge. Height = exactly 8% of total canvas height (roughly 2.5× taller than the top bar).
+  The bottom bar contains ONLY the following two elements — render nothing else inside it:
+  LEFT: display the word BELDANTE in white, large bold lettering, left-aligned with generous left padding, vertically centered in the bar.
+  RIGHT: display the word NEXT in white, large bold lettering, immediately followed by a white icon of a human hand with the index finger pointing horizontally to the right (a natural pointing gesture — NOT a mouse cursor or arrow). Right-aligned with generous right padding, vertically centered in the bar.
+  CRITICAL: Do NOT render font names, sizes, style labels, or any descriptive text inside the bottom bar. Only "BELDANTE" on the left and "NEXT + hand icon" on the right.
 
 Content area (inside gray background, with generous top and bottom internal padding):
 
@@ -202,12 +210,14 @@ Emphasized words: 「清潔感と信頼感のシグナル」「評価を毀損�
 A clean, professional Japanese business infographic slide.
 Aspect ratio: 4:5 (portrait). Do not render any dimension labels, rulers, arrows, or numeric annotations anywhere on the image.
 
-Layout:
-- Top bar: solid black rectangle spanning the full width. Thin strip at the very top — height is approximately 3% of the total canvas height.
-- Main background: flat light gray (#D0D0D0), fills the large middle section between the two black bars.
-- Bottom bar: solid black rectangle spanning the full width. Thick strip at the very bottom — height is approximately 8% of the total canvas height (about 2.5× the top bar height).
-  Left side of bottom bar: "BELDANTE" in white, Noto Sans JP Black, large — left-aligned with generous left padding, vertically centered.
-  Right side of bottom bar: "NEXT" in white, Noto Sans JP Black, large, followed by a white hand icon showing a human index finger pointing horizontally to the right (a pointing gesture, not a mouse cursor). Right-aligned with generous right padding, vertically centered.
+Layout (follow exactly — do not alter proportions, colors, or bottom bar content):
+- Top bar: solid black (#000000) rectangle spanning the full canvas width, flush to the very top edge. Height = exactly 3% of total canvas height. Contains NO text and NO icons.
+- Main background: solid flat light gray (#D0D0D0), fills all space between the two black bars. No gradients, no texture.
+- Bottom bar: solid black (#000000) rectangle spanning the full canvas width, flush to the very bottom edge. Height = exactly 8% of total canvas height (roughly 2.5× taller than the top bar).
+  The bottom bar contains ONLY the following two elements — render nothing else inside it:
+  LEFT: display the word BELDANTE in white, large bold lettering, left-aligned with generous left padding, vertically centered in the bar.
+  RIGHT: display the word NEXT in white, large bold lettering, immediately followed by a white icon of a human hand with the index finger pointing horizontally to the right (a natural pointing gesture — NOT a mouse cursor or arrow). Right-aligned with generous right padding, vertically centered in the bar.
+  CRITICAL: Do NOT render font names, sizes, style labels, or any descriptive text inside the bottom bar. Only "BELDANTE" on the left and "NEXT + hand icon" on the right.
 
 Content area (inside gray background, with generous top and bottom internal padding):
 
@@ -242,12 +252,14 @@ Emphasized words: 「5,000円以内」「週5分」「仕事の丁寧さ」 → 
 A clean, professional Japanese business infographic slide.
 Aspect ratio: 4:5 (portrait). Do not render any dimension labels, rulers, arrows, or numeric annotations anywhere on the image.
 
-Layout:
-- Top bar: solid black rectangle spanning the full width. Thin strip at the very top — height is approximately 3% of the total canvas height.
-- Main background: flat light gray (#D0D0D0), fills the large middle section between the two black bars.
-- Bottom bar: solid black rectangle spanning the full width. Thick strip at the very bottom — height is approximately 8% of the total canvas height (about 2.5× the top bar height).
-  Left side of bottom bar: "BELDANTE" in white, Noto Sans JP Black, large — left-aligned with generous left padding, vertically centered.
-  Right side of bottom bar: "NEXT" in white, Noto Sans JP Black, large, followed by a white hand icon showing a human index finger pointing horizontally to the right (a pointing gesture, not a mouse cursor). Right-aligned with generous right padding, vertically centered.
+Layout (follow exactly — do not alter proportions, colors, or bottom bar content):
+- Top bar: solid black (#000000) rectangle spanning the full canvas width, flush to the very top edge. Height = exactly 3% of total canvas height. Contains NO text and NO icons.
+- Main background: solid flat light gray (#D0D0D0), fills all space between the two black bars. No gradients, no texture.
+- Bottom bar: solid black (#000000) rectangle spanning the full canvas width, flush to the very bottom edge. Height = exactly 8% of total canvas height (roughly 2.5× taller than the top bar).
+  The bottom bar contains ONLY the following two elements — render nothing else inside it:
+  LEFT: display the word BELDANTE in white, large bold lettering, left-aligned with generous left padding, vertically centered in the bar.
+  RIGHT: display the word NEXT in white, large bold lettering, immediately followed by a white icon of a human hand with the index finger pointing horizontally to the right (a natural pointing gesture — NOT a mouse cursor or arrow). Right-aligned with generous right padding, vertically centered in the bar.
+  CRITICAL: Do NOT render font names, sizes, style labels, or any descriptive text inside the bottom bar. Only "BELDANTE" on the left and "NEXT + hand icon" on the right.
 
 Content area (inside gray background, with generous top and bottom internal padding):
 
@@ -283,12 +295,14 @@ Emphasized words: 「習慣が、印象をつくる。」 → Noto Sans JP Bold 
 A clean, professional Japanese business infographic slide.
 Aspect ratio: 4:5 (portrait). Do not render any dimension labels, rulers, arrows, or numeric annotations anywhere on the image.
 
-Layout:
-- Top bar: solid black rectangle spanning the full width. Thin strip at the very top — height is approximately 3% of the total canvas height.
-- Main background: flat light gray (#D0D0D0), fills the large middle section between the two black bars.
-- Bottom bar: solid black rectangle spanning the full width. Thick strip at the very bottom — height is approximately 8% of the total canvas height (about 2.5× the top bar height).
-  Left side of bottom bar: "BELDANTE" in white, Noto Sans JP Black, large — left-aligned with generous left padding, vertically centered.
-  Right side of bottom bar: "NEXT" in white, Noto Sans JP Black, large, followed by a white hand icon showing a human index finger pointing horizontally to the right (a pointing gesture, not a mouse cursor). Right-aligned with generous right padding, vertically centered.
+Layout (follow exactly — do not alter proportions, colors, or bottom bar content):
+- Top bar: solid black (#000000) rectangle spanning the full canvas width, flush to the very top edge. Height = exactly 3% of total canvas height. Contains NO text and NO icons.
+- Main background: solid flat light gray (#D0D0D0), fills all space between the two black bars. No gradients, no texture.
+- Bottom bar: solid black (#000000) rectangle spanning the full canvas width, flush to the very bottom edge. Height = exactly 8% of total canvas height (roughly 2.5× taller than the top bar).
+  The bottom bar contains ONLY the following two elements — render nothing else inside it:
+  LEFT: display the word BELDANTE in white, large bold lettering, left-aligned with generous left padding, vertically centered in the bar.
+  RIGHT: display the word NEXT in white, large bold lettering, immediately followed by a white icon of a human hand with the index finger pointing horizontally to the right (a natural pointing gesture — NOT a mouse cursor or arrow). Right-aligned with generous right padding, vertically centered in the bar.
+  CRITICAL: Do NOT render font names, sizes, style labels, or any descriptive text inside the bottom bar. Only "BELDANTE" on the left and "NEXT + hand icon" on the right.
 
 Content area (inside gray background, content centered vertically):
 
