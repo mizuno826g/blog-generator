@@ -38,8 +38,11 @@ A clean, professional Japanese business infographic slide.
 Aspect ratio: 4:5 (portrait). Do not render any dimension labels, rulers, arrows, or numeric annotations anywhere on the image.
 
 Layout:
-- Top bar: approximately 3% height, solid black. Main background: #D0D0D0.
-- Bottom bar: approximately 8% height. Left: "BELDANTE". Right: "NEXT" + right-pointing finger icon.
+- Top bar: solid black rectangle spanning the full width. Thin strip at the very top — height is approximately 3% of the total canvas height.
+- Main background: flat light gray (#D0D0D0), fills the large middle section between the two black bars.
+- Bottom bar: solid black rectangle spanning the full width. Thick strip at the very bottom — height is approximately 8% of the total canvas height (about 2.5× the top bar height).
+  Left side of bottom bar: "BELDANTE" in white, Noto Sans JP Black, large — left-aligned with generous left padding, vertically centered.
+  Right side of bottom bar: "NEXT" in white, Noto Sans JP Black, large, followed by a white hand icon showing a human index finger pointing horizontally to the right (a pointing gesture, not a mouse cursor). Right-aligned with generous right padding, vertically centered.
 
 Content area:
 
@@ -71,8 +74,11 @@ A clean, professional Japanese business infographic slide.
 Aspect ratio: 4:5 (portrait). Do not render any dimension labels, rulers, arrows, or numeric annotations anywhere on the image.
 
 Layout:
-- Top bar: approximately 3% height. Main: #D0D0D0. Bottom bar: approximately 8% height.
-  Left: "BELDANTE". Right: "NEXT" + right-pointing finger.
+- Top bar: solid black rectangle spanning the full width. Thin strip at the very top — height is approximately 3% of the total canvas height.
+- Main background: flat light gray (#D0D0D0), fills the large middle section between the two black bars.
+- Bottom bar: solid black rectangle spanning the full width. Thick strip at the very bottom — height is approximately 8% of the total canvas height (about 2.5× the top bar height).
+  Left side of bottom bar: "BELDANTE" in white, Noto Sans JP Black, large — left-aligned with generous left padding, vertically centered.
+  Right side of bottom bar: "NEXT" in white, Noto Sans JP Black, large, followed by a white hand icon showing a human index finger pointing horizontally to the right (a pointing gesture, not a mouse cursor). Right-aligned with generous right padding, vertically centered.
 
 Content area:
 
@@ -105,8 +111,11 @@ A clean, professional Japanese business infographic slide.
 Aspect ratio: 4:5 (portrait). Do not render any dimension labels, rulers, arrows, or numeric annotations anywhere on the image.
 
 Layout:
-- Top bar: approximately 3% height. Main: #D0D0D0. Bottom bar: approximately 8% height.
-  Left: "BELDANTE". Right: "NEXT" + right-pointing finger.
+- Top bar: solid black rectangle spanning the full width. Thin strip at the very top — height is approximately 3% of the total canvas height.
+- Main background: flat light gray (#D0D0D0), fills the large middle section between the two black bars.
+- Bottom bar: solid black rectangle spanning the full width. Thick strip at the very bottom — height is approximately 8% of the total canvas height (about 2.5× the top bar height).
+  Left side of bottom bar: "BELDANTE" in white, Noto Sans JP Black, large — left-aligned with generous left padding, vertically centered.
+  Right side of bottom bar: "NEXT" in white, Noto Sans JP Black, large, followed by a white hand icon showing a human index finger pointing horizontally to the right (a pointing gesture, not a mouse cursor). Right-aligned with generous right padding, vertically centered.
 
 Content area:
 
@@ -139,8 +148,11 @@ A clean, professional Japanese business infographic slide.
 Aspect ratio: 4:5 (portrait). Do not render any dimension labels, rulers, arrows, or numeric annotations anywhere on the image.
 
 Layout:
-- Top bar: approximately 3% height. Main: #D0D0D0. Bottom bar: approximately 8% height.
-  Left: "BELDANTE". Right: "NEXT" + right-pointing finger.
+- Top bar: solid black rectangle spanning the full width. Thin strip at the very top — height is approximately 3% of the total canvas height.
+- Main background: flat light gray (#D0D0D0), fills the large middle section between the two black bars.
+- Bottom bar: solid black rectangle spanning the full width. Thick strip at the very bottom — height is approximately 8% of the total canvas height (about 2.5× the top bar height).
+  Left side of bottom bar: "BELDANTE" in white, Noto Sans JP Black, large — left-aligned with generous left padding, vertically centered.
+  Right side of bottom bar: "NEXT" in white, Noto Sans JP Black, large, followed by a white hand icon showing a human index finger pointing horizontally to the right (a pointing gesture, not a mouse cursor). Right-aligned with generous right padding, vertically centered.
 
 Content area:
 
@@ -173,8 +185,11 @@ A clean, professional Japanese business infographic slide.
 Aspect ratio: 4:5 (portrait). Do not render any dimension labels, rulers, arrows, or numeric annotations anywhere on the image.
 
 Layout:
-- Top bar: approximately 3% height. Main: #D0D0D0. Bottom bar: approximately 8% height.
-  Left: "BELDANTE". Right: "NEXT" + right-pointing finger.
+- Top bar: solid black rectangle spanning the full width. Thin strip at the very top — height is approximately 3% of the total canvas height.
+- Main background: flat light gray (#D0D0D0), fills the large middle section between the two black bars.
+- Bottom bar: solid black rectangle spanning the full width. Thick strip at the very bottom — height is approximately 8% of the total canvas height (about 2.5× the top bar height).
+  Left side of bottom bar: "BELDANTE" in white, Noto Sans JP Black, large — left-aligned with generous left padding, vertically centered.
+  Right side of bottom bar: "NEXT" in white, Noto Sans JP Black, large, followed by a white hand icon showing a human index finger pointing horizontally to the right (a pointing gesture, not a mouse cursor). Right-aligned with generous right padding, vertically centered.
 
 Content area:
 
@@ -206,8 +221,11 @@ A clean, professional Japanese business infographic slide.
 Aspect ratio: 4:5 (portrait). Do not render any dimension labels, rulers, arrows, or numeric annotations anywhere on the image.
 
 Layout:
-- Top bar: approximately 3% height. Main: #D0D0D0. Bottom bar: approximately 8% height.
-  Left: "BELDANTE". Right: "NEXT" + right-pointing finger.
+- Top bar: solid black rectangle spanning the full width. Thin strip at the very top — height is approximately 3% of the total canvas height.
+- Main background: flat light gray (#D0D0D0), fills the large middle section between the two black bars.
+- Bottom bar: solid black rectangle spanning the full width. Thick strip at the very bottom — height is approximately 8% of the total canvas height (about 2.5× the top bar height).
+  Left side of bottom bar: "BELDANTE" in white, Noto Sans JP Black, large — left-aligned with generous left padding, vertically centered.
+  Right side of bottom bar: "NEXT" in white, Noto Sans JP Black, large, followed by a white hand icon showing a human index finger pointing horizontally to the right (a pointing gesture, not a mouse cursor). Right-aligned with generous right padding, vertically centered.
 
 Content area:
 
@@ -240,8 +258,11 @@ A clean, professional Japanese business infographic slide.
 Aspect ratio: 4:5 (portrait). Do not render any dimension labels, rulers, arrows, or numeric annotations anywhere on the image.
 
 Layout:
-- Top bar: approximately 3% height. Main: #D0D0D0. Bottom bar: approximately 8% height.
-  Left: "BELDANTE". Right: "NEXT" + right-pointing finger.
+- Top bar: solid black rectangle spanning the full width. Thin strip at the very top — height is approximately 3% of the total canvas height.
+- Main background: flat light gray (#D0D0D0), fills the large middle section between the two black bars.
+- Bottom bar: solid black rectangle spanning the full width. Thick strip at the very bottom — height is approximately 8% of the total canvas height (about 2.5× the top bar height).
+  Left side of bottom bar: "BELDANTE" in white, Noto Sans JP Black, large — left-aligned with generous left padding, vertically centered.
+  Right side of bottom bar: "NEXT" in white, Noto Sans JP Black, large, followed by a white hand icon showing a human index finger pointing horizontally to the right (a pointing gesture, not a mouse cursor). Right-aligned with generous right padding, vertically centered.
 
 Content area (centered vertically):
 White illustration frame: smartphone with link icon and upward arrow. Black outlines on white.
