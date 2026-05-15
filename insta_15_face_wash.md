@@ -52,9 +52,9 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: Left side — a rough scrubbing motion on a face with visible stress lines and
+Inside the frame: Left side — a rough scrubbing motion on a 40s male face with visible stress lines and
 irritation marks labeled 「摩擦→バリア破壊→乾燥→テカリ増加」. Right side — gentle foam
-pressing on a smooth face labeled 「泡で包む→保護→安定」. Arrow between them. Monochrome line art.
+pressing on a smooth 40s male face labeled 「泡で包む→保護→安定」. Arrow between them. Monochrome line art.
 
 Body text (centered, line-height 1.7):
 強くこするほど清潔になると思われがちだが逆効果。

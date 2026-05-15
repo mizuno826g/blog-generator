@@ -200,7 +200,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: Front-facing upper body outline with shaded moisturizing zones highlighted:
+Inside the frame: Front-facing 40s male upper body outline with shaded moisturizing zones highlighted:
 顔全体 → 首（正面・側面）→ 耳周り → デコルテ上部. Each zone labeled.
 A note: 「首の乾燥は加齢サインが出やすい部位」. Monochrome line art on white.
 

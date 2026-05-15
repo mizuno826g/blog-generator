@@ -91,7 +91,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: A man looking in a mirror — checking face, hair, suit — but his hands are
+Inside the frame: A 40s male looking in a mirror — checking face, hair, suit — but his hands are
 outside the mirror frame, unchecked. A magnifying glass icon highlighting the hands with
 an exclamation mark. Monochrome line art on white.
 

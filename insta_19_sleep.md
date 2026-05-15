@@ -53,7 +53,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: Male face diagram with three annotated problem zones:
+Inside the frame: 40s male face diagram with three annotated problem zones:
 「目の下のクマ」with arrow to under-eye area, 「皮膚のくすみ」with arrow to cheek area,
 「顔のむくみ（特にフェイスライン）」with arrow to jaw/lower face area.
 A small clock icon showing insufficient sleep hours with a downward arrow pointing to the face.

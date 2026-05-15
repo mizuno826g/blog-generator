@@ -89,7 +89,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, W900px, 320px tall, white fill (#FFFFFF), no border radius.
-Inside the frame: Side-by-side comparison of two male faces in simple monochrome line art.
+Inside the frame: Side-by-side comparison of two 40s male faces in simple monochrome line art.
 Left face (40s man): tired expression, hatching lines on forehead indicating oiliness/shine,
 curved shadow lines under eyes suggesting dark circles, slightly strained look. A small
 downward arrow beneath labeled area. Right face (same man): composed expression, smooth

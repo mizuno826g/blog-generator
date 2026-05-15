@@ -92,7 +92,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: A simple diagram showing a human silhouette on the left, with a straight
+Inside the frame: A simple diagram showing a 40s male silhouette on the left, with a straight
 arrow pointing right toward a thought bubble. Inside the thought bubble: a checkmark (✓)
 representing "trust approved." The idea is that visual cues trigger an automatic trust
 judgment before any words are spoken. Clean, icon-style. Black outlines only on white.
@@ -173,7 +173,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: One taller central figure (the leader) standing upright with 3-4 smaller
+Inside the frame: One taller 40s male central figure (the leader) standing upright with 3-4 smaller
 figures arranged around them, all mirroring the leader's upright posture. Silhouette-style.
 Small upward arrows above each team member, indicating rising awareness/standards.
 Black outlines only on white, no gray fill.

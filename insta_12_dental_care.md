@@ -52,7 +52,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: Two male face outlines side by side. Left: smiling face with yellowish/dull
+Inside the frame: Two 40s male face outlines side by side. Left: smiling face with yellowish/dull
 tooth icons labeled 「くすみ・黄ばみ」with a downward arrow. Right: smiling face with bright
 white tooth icons labeled 「清潔感・信頼感」with an upward arrow. Monochrome line art on white.
 

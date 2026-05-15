@@ -53,7 +53,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: A simple illustration showing a meeting scene. A central figure (the person
+Inside the frame: A simple illustration showing a meeting scene. A central 40s male figure (the person
 with body odor) is unaware, while surrounding figures lean slightly away with subtle discomfort
 expressions. Small wavy lines near the central figure indicating odor.
 The disconnect in awareness is the key message. Black outlines only on white, no gray fill.
@@ -174,7 +174,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: A simple body outline (back view) with highlighted/marked areas indicating
+Inside the frame: A simple 40s male body outline (back view) with highlighted/marked areas indicating
 high odor-prone zones: back of neck, behind ears, upper back/shoulder blades.
 Small arrows pointing to each zone. Clean anatomical reference style.
 Black outlines only on white, no gray fill.

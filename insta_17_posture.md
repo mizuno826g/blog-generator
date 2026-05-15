@@ -52,7 +52,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: Two male silhouettes side by side. Left — rounded shoulders, forward head,
+Inside the frame: Two 40s male silhouettes side by side. Left — rounded shoulders, forward head,
 visible belly protrusion, labeled 「猫背・腹肉＝自己管理の放棄」with downward arrow.
 Right — straight spine, open chest, flat abdomen, labeled 「直立・引き締まり＝権威・自信」
 with upward arrow. Monochrome line art on white.
@@ -128,7 +128,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: Male figure standing against a wall with 4 contact points labeled:
+Inside the frame: 40s male figure standing against a wall with 4 contact points labeled:
 「後頭部」「肩甲骨」「お尻」「かかと」all touching the wall. A vertical center line runs
 through the body. Annotation: 「この姿勢が正しい直立の基準」. Monochrome line art on white.
 

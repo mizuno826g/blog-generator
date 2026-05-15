@@ -53,7 +53,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: Two simple male head silhouettes side by side.
+Inside the frame: Two simple 40s male head silhouettes side by side.
 Left: disheveled, overgrown hair, unkempt appearance, small downward arrow below.
 Right: neatly styled short hair, clean lines, upright posture, small upward arrow below.
 Simple monochrome line art. Black outlines only on white, no gray fill.
@@ -134,7 +134,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: Two head silhouettes side by side showing hair treatment strategies.
+Inside the frame: Two 40s male head silhouettes side by side showing hair treatment strategies.
 Left: patchy, uneven dye job with obvious roots showing (labeled "×").
 Right: clean silver-gray hair, neatly styled and well-maintained (labeled "○ Distinguished").
 Simple, clean line art. Black outlines only on white, no gray fill.

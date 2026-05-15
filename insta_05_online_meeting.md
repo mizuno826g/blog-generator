@@ -97,7 +97,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: A simple comparison diagram. Left side labeled "対面": a full-body silhouette
+Inside the frame: A simple comparison diagram. Left side labeled "対面": a full-body silhouette of a 40s male
 with multiple sensory icons (eye, ear, nose, handshake) radiating around it — representing
 rich multi-channel information. Right side labeled "オンライン": only a face rectangle with
 just an eye icon — representing limited visual-only information. The narrowing of cues is the key message.
@@ -139,7 +139,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: Three simple face outlines in a row, each with a different light source:
+Inside the frame: Three simple 40s male face outlines in a row, each with a different light source:
 (1) Light from behind — face darkened, a "×" mark below.
 (2) Light from above (overhead) — harsh shadows under eyes, a "△" mark below.
 (3) Light from the front — face bright and even, a "○" mark below.

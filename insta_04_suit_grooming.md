@@ -53,7 +53,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: Two businessmen standing side by side in simple line art silhouettes.
+Inside the frame: Two 40s male businessmen standing side by side in simple line art silhouettes.
 Left figure: ill-fitting baggy suit, slouched posture, wrinkles visible on jacket.
 Right figure: perfectly fitted suit, upright posture, clean lines.
 Small thought bubble above each, left with a question mark, right with a checkmark.

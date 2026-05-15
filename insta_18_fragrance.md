@@ -90,7 +90,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: Two-column problem diagram. Left: body outline with odor lines labeled
+Inside the frame: Two-column problem diagram. Left: 40s male body outline with odor lines labeled
 「ノネナール（加齢臭）：首・後頭部・耳周りから発生」. Right: multiple spray bottles
 labeled 「香水のつけすぎ→不快・圧迫感→逆効果」. Both columns have downward arrows.
 Monochrome line art on white.
@@ -128,7 +128,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: Male body outline with two highlighted pulse points:
+Inside the frame: 40s male body outline with two highlighted pulse points:
 「手首の内側」と「首の側面（耳下）」. Each labeled with a pulse wave icon.
 Note: 「×NG：胸・服に直接スプレー」shown with a cross icon. Amount annotation:
 「1〜2プッシュが上限」. Monochrome line art on white.

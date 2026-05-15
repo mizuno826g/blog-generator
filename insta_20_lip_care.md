@@ -52,7 +52,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: Two male face close-ups focusing on the mouth area. Left: cracked, peeling lips
+Inside the frame: Two 40s male face close-ups focusing on the mouth area. Left: cracked, peeling lips
 with texture lines labeled 「乾燥・皮むけ→粗雑・不衛生の印象」with downward arrow.
 Right: smooth, well-maintained lips labeled 「整えられた唇→清潔感・細部管理の証明」
 with upward arrow. Monochrome line art on white.

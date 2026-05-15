@@ -53,7 +53,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: Two male face outlines side by side (40s), showing just the upper face area.
+Inside the frame: Two 40s male face outlines side by side, showing just the upper face area.
 Left face: bushy, overgrown, unkempt eyebrows with stray hairs.
 Right face: clean, defined, naturally shaped eyebrows.
 Both faces otherwise identical — emphasizing eyebrows as the key variable.
@@ -94,7 +94,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: Three simple face outlines showing how eyebrow shape changes perception:
+Inside the frame: Three simple 40s male face outlines showing how eyebrow shape changes perception:
 Left: thick downward-angled brows (reads as aggressive/unapproachable).
 Center: flat unkempt brows (reads as tired/indifferent).
 Right: clean, slightly arched natural brows (reads as alert/trustworthy).

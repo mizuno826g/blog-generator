@@ -52,7 +52,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: Two male face outlines. Left: unkempt stubble with uneven edges, stray hairs
+Inside the frame: Two 40s male face outlines. Left: unkempt stubble with uneven edges, stray hairs
 on neck, labeled 「無精ひげ＝だらしない」with downward arrow. Right: neatly defined short beard,
 clean neckline and cheek line, labeled 「整えた髭＝成熟・知性」with upward arrow.
 Monochrome line art on white.
@@ -126,7 +126,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: A face outline showing the three key trimming zones with dotted lines:
+Inside the frame: A 40s male face outline showing the three key trimming zones with dotted lines:
 ① 頬ライン（cheek line — keep it natural, slightly curved）
 ② あごライン（jawline — sharp definition）  
 ③ 首ライン（neckline — 1-2 finger widths above Adam's apple）

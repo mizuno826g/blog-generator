@@ -53,7 +53,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: Two male face outlines side by side (40s).
+Inside the frame: Two 40s male face outlines side by side.
 Left face: visible dark circles under eyes, drooping eyelids, tired expression.
 A small thought bubble nearby reads "疲れてる？" with a downward arrow.
 Right face: clear under-eye area, alert eyes, composed expression.
@@ -176,7 +176,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: A close-up illustration of a face showing the correct finger placement
+Inside the frame: A close-up illustration of a 40s male face showing the correct finger placement
 for eye cream application — ring finger gently patting along the orbital bone, not rubbing.
 Simple instructional line art. Black outlines only on white, no gray fill.
 
@@ -216,7 +216,7 @@ Font: Noto Sans JP Black, 54px, black (#000000), centered.
 
 White illustration frame:
 Centered white rectangle, wide and horizontal, white fill (#FFFFFF), no border radius.
-Inside the frame: A simple diagram showing UV rays from above hitting a face, with arrows
+Inside the frame: A simple diagram showing UV rays from above hitting a 40s male face, with arrows
 pointing to the under-eye area labeled "メラニン沈着". A sun shield icon on the right
 showing SPF/UV protection blocking the rays. Clean, infographic style.
 Black outlines only on white, no gray fill.
