@@ -11,8 +11,7 @@ Layout:
   Large bold white Japanese headline: 「充血した目は、昨夜を語りすぎる。」
   Below headline: smaller gold or light gray subtext in Japanese: 「40代からの目の充血対策——ビジネスの場でクリアな目を維持する」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
-  sharp intense eyes, strong jaw, Asian features, dark clothing.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark clothing.
   Scene: model applying eye drops with clinical precise tilted-head motion, dark background.
 - Bottom strip (full width, thin dark bar):
   Small white/gold text labels: 「01 充血のタイプ別原因」 「02 正しい目薬選び」 「03 生活習慣の改善」

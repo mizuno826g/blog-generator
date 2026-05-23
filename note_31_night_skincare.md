@@ -11,8 +11,7 @@ Layout:
   Large bold white Japanese headline: 「夜の5分は、翌朝の顔への先物投資だ。」
   Below headline: smaller gold or light gray subtext in Japanese: 「40代からの夜スキンケアルーティン——朝だけでは追いつかない理由」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
-  sharp intense eyes, strong jaw, Asian features, dark clothing.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark clothing.
   Scene: model applying serum with focused fingertip pressure at bathroom mirror at night, warm amber light.
 - Bottom strip (full width, thin dark bar):
   Small white/gold text labels: 「01 夜間修復のメカニズム」 「02 4ステップルーティン」 「03 目元・口元の集中ケア」

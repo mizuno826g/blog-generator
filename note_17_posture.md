@@ -9,8 +9,7 @@ Layout:
 - Left area (approx. 55% of width): Large bold white Japanese headline 「背筋が、男の格を決める。」
   Gold subtext: 「40代からの姿勢と体型——リーダーシップを可視化するボディ管理」
   Badge: small rectangular label 「BELDANTE」in white outline.
-- Right area (approx. 45% of width): The fixed model (male early 50s, silver-gray slicked hair,
-  full gray beard, Asian features, dark fitted dress shirt) standing in a doorway, deliberately
+- Right area (approx. 45% of width): The fixed model (Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark fitted dress shirt) standing in a doorway, deliberately
   straightening posture — shoulders rolled back, chest open, spine aligned, radiating authority.
 - Bottom strip: small white labels 「01 姿勢の印象効果」「02 崩壊の原因」「03 矯正プロトコル」横並び
 Style: Cinematic editorial, luxury men's brand aesthetic, high contrast, dark warm tones.

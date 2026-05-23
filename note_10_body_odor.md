@@ -11,8 +11,7 @@ Layout:
   Below headline: smaller gold subtext: 「ニオイの印象管理——ノネナールの正体と対策」
   Gold accent badge: 「嗅覚順応という落とし穴」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
-  clean white dress shirt under a dark blazer. Standing in a clean, airy modern space.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark blazer. Standing in a clean, airy modern space.
   Composed, controlled expression. Natural window light — clean and fresh atmosphere.
 - Bottom strip (full width, thin dark bar):
   Gold/white small text labels: 「01 嗅覚順応」「02 ノネナールの発生」「03 発生源の制御」「04 体内環境」「05 衣類管理」

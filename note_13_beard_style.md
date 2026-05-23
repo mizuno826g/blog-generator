@@ -9,8 +9,7 @@ Layout:
 - Left area (approx. 55% of width): Large bold white Japanese headline 「無精ひげか、計算された髭か。」
   Gold subtext: 「40代からの髭が印象を決める——戦略的グルーミングガイド」
   Badge: small rectangular label 「BELDANTE」in white outline.
-- Right area (approx. 45% of width): The fixed model (male early 50s, silver-gray slicked hair,
-  full trimmed gray beard, Asian features, dark turtleneck) in extreme close-up of lower face —
+- Right area (approx. 45% of width): The fixed model (Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark turtleneck) in extreme close-up of lower face —
   sharply defined beard with clean neckline and cheek line, editorial dramatic side lighting.
 - Bottom strip: small white labels 「01 髭の印象差」「02 整え方の基準」「03 職場判断」横並び
 Style: Cinematic editorial, luxury men's brand aesthetic, high contrast, dark warm tones.

@@ -11,8 +11,7 @@ Layout:
   Large bold white Japanese headline: 「汗は、静かに商談を壊している。」
   Below headline: smaller gold or light gray subtext in Japanese: 「40代からの汗対策——プレゼン中に自爆しないための完全戦略」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
-  sharp intense eyes, strong jaw, Asian features, dark clothing.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark clothing.
   Scene: model in dark suit standing composed before meeting, adjusting collar with deliberate calm.
 - Bottom strip (full width, thin dark bar):
   Small white/gold text labels: 「01 汗がビジネスに与える影響」 「02 就寝前制汗」 「03 素材・食事管理」

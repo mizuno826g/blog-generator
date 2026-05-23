@@ -9,8 +9,7 @@ Layout:
 - Left area (approx. 55% of width): Large bold white Japanese headline 「香りは、去った後も印象を残す。」
   Gold subtext: 「40代以降が知るべき香りの戦略——無臭か計算された香りか」
   Badge: small rectangular label 「BELDANTE」in white outline.
-- Right area (approx. 45% of width): The fixed model (male early 50s, silver-gray slicked hair,
-  full gray beard, Asian features, dark fitted jacket) applying fragrance — holding a dark glass
+- Right area (approx. 45% of width): The fixed model (Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark fitted jacket) applying fragrance — holding a dark glass
   perfume bottle with one wrist slightly raised, misting inner wrist with deliberate precision,
   soft warm side light catching the glass bottle.
 - Bottom strip: small white labels 「01 香りのプレゼンス」「02 系統の選び方」「03 使い方の基準」横並び

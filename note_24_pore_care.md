@@ -11,8 +11,7 @@ Layout:
   Large bold white Japanese headline: 「毛穴は経営と同じだ。詰まる前に管理する。」
   Below headline: smaller gold or light gray subtext in Japanese: 「40代からの毛穴・角栓対策——正しいアプローチで肌を変える」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
-  sharp intense eyes, strong jaw, Asian features, dark clothing.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark clothing.
   Scene: model examining face closely at magnifying mirror with analytical focused expression.
 - Bottom strip (full width, thin dark bar):
   Small white/gold text labels: 「01 毛穴詰まりの原因」 「02 ピーリング導入」 「03 ナイアシンアミド」

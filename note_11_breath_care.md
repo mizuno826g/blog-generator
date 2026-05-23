@@ -9,8 +9,7 @@ Layout:
 - Left area (approx. 55% of width): Large bold white Japanese headline 「口臭は、見えない減点だ。」
   Gold subtext: 「40代からのビジネスマンの口臭対策完全ガイド」
   Badge: small rectangular label 「BELDANTE」in white outline.
-- Right area (approx. 45% of width): The fixed model (male early 50s, silver-gray slicked hair,
-  full gray beard, Asian features, dark suit) in a business meeting, leaning slightly forward
+- Right area (approx. 45% of width): The fixed model (Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark suit) in a business meeting, leaning slightly forward
   speaking with composed authority, mouth slightly open, confident expression.
 - Bottom strip: small white labels 「01 口臭の正体」「02 原因のメカニズム」「03 即効対策」横並び
 Style: Cinematic editorial, luxury men's brand aesthetic, high contrast, dark warm tones.

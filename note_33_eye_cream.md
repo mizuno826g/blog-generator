@@ -11,8 +11,7 @@ Layout:
   Large bold white Japanese headline: 「目元は、顔の中で最初に・最も長く読まれる。」
   Below headline: smaller gold or light gray subtext in Japanese: 「40代からのアイクリーム——目元という最重要ページへの投資」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
-  sharp intense eyes, strong jaw, Asian features, dark clothing.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark clothing.
   Scene: model applying eye cream with ring finger tapping motion at bathroom vanity, precise deliberate.
 - Bottom strip (full width, thin dark bar):
   Small white/gold text labels: 「01 目元が先に老ける理由」 「02 成分別の選び方」 「03 正しい塗り方」

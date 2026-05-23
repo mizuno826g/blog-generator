@@ -9,8 +9,7 @@ Layout:
 - Left area (approx. 55% of width): Large bold white Japanese headline 「睡眠が、翌朝の顔を作る。」
   Gold subtext: 「40代からの外見コンディション——睡眠の質が印象を支配する」
   Badge: small rectangular label 「BELDANTE」in white outline.
-- Right area (approx. 45% of width): The fixed model (male early 50s, silver-gray slicked hair,
-  full gray beard, Asian features, dark fitted dress shirt) standing at a bathroom mirror in
+- Right area (approx. 45% of width): The fixed model (Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark fitted dress shirt) standing at a bathroom mirror in
   early morning, both hands gripping the sink, examining his face with sharp focused alert eyes —
   no puffiness, no dark circles, composed and ready. Soft warm morning light from the side.
 - Bottom strip: small white labels 「01 睡眠と顔の関係」「02 質を高める習慣」「03 朝のリセット」横並び

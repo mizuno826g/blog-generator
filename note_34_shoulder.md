@@ -11,8 +11,7 @@ Layout:
   Large bold white Japanese headline: 「肩のシルエットが、スーツより先に人望を語る。」
   Below headline: smaller gold or light gray subtext in Japanese: 「40代からの肩印象管理——丸まった肩が奪うもの、開いた肩が与えるもの」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
-  sharp intense eyes, strong jaw, Asian features, dark clothing.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark clothing.
   Scene: model at head of conference table or corridor, shoulders rolled back, chest open, commanding presence.
 - Bottom strip (full width, thin dark bar):
   Small white/gold text labels: 「01 肩が与える印象効果」 「02 肩甲骨ストレッチ」 「03 後面筋強化」

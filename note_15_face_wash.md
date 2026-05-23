@@ -9,8 +9,7 @@ Layout:
 - Left area (approx. 55% of width): Large bold white Japanese headline 「その洗顔、肌を壊していないか。」
   Gold subtext: 「40代からのための正しい洗顔完全ガイド」
   Badge: small rectangular label 「BELDANTE」in white outline.
-- Right area (approx. 45% of width): The fixed model (male early 50s, silver-gray slicked hair,
-  full gray beard, Asian features, dark open-collar shirt) at a luxury bathroom sink, both hands
+- Right area (approx. 45% of width): The fixed model (Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark open-collar shirt) at a luxury bathroom sink, both hands
   cupped with rich creamy foam, about to apply it carefully — focused, controlled expression.
 - Bottom strip: small white labels 「01 洗顔の誤解」「02 肌を守る洗い方」「03 温度と頻度」横並び
 Style: Cinematic editorial, luxury men's brand aesthetic, high contrast, dark warm tones.

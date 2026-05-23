@@ -9,8 +9,7 @@ Layout:
 - Left area (approx. 55% of width): Large bold white Japanese headline 「唇の荒れは、粗雑さの証明だ。」
   Gold subtext: 「40代以降が見落とす——リップケアが印象を完成させる理由」
   Badge: small rectangular label 「BELDANTE」in white outline.
-- Right area (approx. 45% of width): The fixed model (male early 50s, silver-gray slicked hair,
-  full gray beard, Asian features, dark dress shirt) applying lip balm — sleek minimal tube held
+- Right area (approx. 45% of width): The fixed model (Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark dress shirt) applying lip balm — sleek minimal tube held
   between two fingers, touching lower lip with deliberate precision, controlled and unhurried
   gesture. Dark minimal background, editorial composition. Soft warm directional light.
 - Bottom strip: small white labels 「01 唇の評価効果」「02 乾燥の構造」「03 ケア習慣の設計」横並び

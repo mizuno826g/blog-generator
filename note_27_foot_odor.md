@@ -11,8 +11,7 @@ Layout:
   Large bold white Japanese headline: 「足の爆弾を、今日解除する。」
   Below headline: smaller gold or light gray subtext in Japanese: 「靴が隠している最大のリスク——足臭の根本対策」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
-  sharp intense eyes, strong jaw, Asian features, dark clothing.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark clothing.
   Scene: model removing dress shoes at end of day, deliberate ritualistic motion.
 - Bottom strip (full width, thin dark bar):
   Small white/gold text labels: 「01 足臭の発生メカニズム」 「02 正しい洗い方」 「03 靴・靴下管理」

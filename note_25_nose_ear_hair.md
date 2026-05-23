@@ -11,8 +11,7 @@ Layout:
   Large bold white Japanese headline: 「細部が品格を決める。鼻毛・耳毛は踏み絵だ。」
   Below headline: smaller gold or light gray subtext in Japanese: 「40代が見落とす細部管理——週5分で信頼感を守る」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
-  sharp intense eyes, strong jaw, Asian features, dark clothing.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark clothing.
   Scene: model holding small grooming device near face at bathroom mirror with precise controlled expression.
 - Bottom strip (full width, thin dark bar):
   Small white/gold text labels: 「01 細部の評価効果」 「02 正しいツール選び」 「03 週次ルーティン」

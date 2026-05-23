@@ -11,8 +11,7 @@ Layout:
   Large bold white Japanese headline: 「顔色は、体内経営の信用格付けだ。」
   Below headline: smaller gold or light gray subtext in Japanese: 「40代からの血色・くすみ改善——ビジネスで最初に読まれる情報を制御する」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
-  sharp intense eyes, strong jaw, Asian features, dark clothing.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark clothing.
   Scene: model at window in morning natural light, face turned toward light, complexion healthy and alert.
 - Bottom strip (full width, thin dark bar):
   Small white/gold text labels: 「01 くすみの3つの原因」 「02 朝の血行促進」 「03 成分と生活習慣」

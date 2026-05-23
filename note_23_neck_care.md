@@ -11,8 +11,7 @@ Layout:
   Large bold white Japanese headline: 「首が、年齢という機密情報をリークする。」
   Below headline: smaller gold or light gray subtext in Japanese: 「スキンケアの最大の盲点——首とデコルテの対策」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
-  sharp intense eyes, strong jaw, Asian features, dark clothing.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark clothing.
   Scene: model applying product to neck with upward fingertip strokes at bathroom mirror.
 - Bottom strip (full width, thin dark bar):
   Small white/gold text labels: 「01 首が老ける理由」 「02 紫外線・スマホ首」 「03 首専用ケア」

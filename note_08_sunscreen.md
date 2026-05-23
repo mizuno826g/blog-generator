@@ -12,7 +12,7 @@ Layout:
   Below headline: smaller gold subtext: 「日焼け止めは外見資本の維持費である」
   Gold accent badge/circle: 「毎日UV対策」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, dark suit.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark suit.
   Walking into a glass-fronted building in morning light. Morning sunlight catches his face
   cleanly. Healthy skin tone projecting vitality and control.
 - Bottom strip (full width, thin dark bar):

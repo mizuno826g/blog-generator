@@ -9,8 +9,7 @@ Layout:
 - Left area (approx. 55% of width): Large bold white Japanese headline 「歯が黄ばんだ瞬間、印象が変わる。」
   Gold subtext: 「40代から始める歯の印象管理完全ガイド」
   Badge: small rectangular label 「BELDANTE」in white outline.
-- Right area (approx. 45% of width): The fixed model (male early 50s, silver-gray slicked hair,
-  full gray beard, Asian features, dark fitted suit) showing a controlled, confident smile —
+- Right area (approx. 45% of width): The fixed model (Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark fitted suit) showing a controlled, confident smile —
   clean white teeth visible, expression radiating authority and warmth simultaneously.
 - Bottom strip: small white labels 「01 歯の評価」「02 劣化メカニズム」「03 管理の実践」横並び
 Style: Cinematic editorial, luxury men's brand aesthetic, high contrast, dark warm tones.

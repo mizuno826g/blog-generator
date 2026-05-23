@@ -11,8 +11,7 @@ Layout:
   Large bold white Japanese headline: 「食べたものが、3日後の顔になる。」
   Below headline: smaller gold or light gray subtext in Japanese: 「腸が顔を作る——40代からの食事と肌の科学的相関」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
-  sharp intense eyes, strong jaw, Asian features, dark clothing.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark clothing.
   Scene: model at restaurant dining setting, holding chopsticks mindfully selecting food with focused strategic expression.
 - Bottom strip (full width, thin dark bar):
   Small white/gold text labels: 「01 食事→腸→肌の経路」 「02 糖化とシワの関係」 「03 抗酸化食材」

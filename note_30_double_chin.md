@@ -11,8 +11,7 @@ Layout:
   Large bold white Japanese headline: 「あごが、自己管理の報告書を提出している。」
   Below headline: smaller gold or light gray subtext in Japanese: 「40代からの二重あご対策——フェイスラインを管理する4つのアプローチ」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
-  sharp intense eyes, strong jaw, Asian features, dark clothing.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark clothing.
   Scene: model in dark fitted shirt sitting upright at desk, chin aligned, jawline defined from slight low angle.
 - Bottom strip (full width, thin dark bar):
   Small white/gold text labels: 「01 二重あごの三重構造」 「02 舌回し運動」 「03 姿勢・食事改善」

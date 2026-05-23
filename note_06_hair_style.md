@@ -11,8 +11,7 @@ Layout:
   Below headline: smaller gold subtext: 「40代からの『髪の印象管理』——制御する戦略」
   Gold accent badge: 「グレー戦略×頭皮ケア×カットサイクル」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair sharply slicked back — the silver tone reads as
-  authority, not age. Full trimmed gray beard, sharp eyes, dark suit jacket.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark suit.
   Dramatic side key light emphasizing hair texture. Confident posture, slight three-quarter profile.
 - Bottom strip (full width, thin dark bar):
   Gold/white small text labels: 「01 メカニズム」「02 グレー戦略」「03 頭皮環境」「04 カットサイクル」

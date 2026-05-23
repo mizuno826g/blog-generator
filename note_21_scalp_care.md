@@ -11,8 +11,7 @@ Layout:
   Large bold white Japanese headline: 「頭皮が崩れると、全てが崩れる。」
   Below headline: smaller gold or light gray subtext in Japanese: 「40代からの頭皮ケア・薄毛予防完全ガイド」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
-  sharp intense eyes, strong jaw, Asian features, dark clothing.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark clothing.
   Scene: model running fingers through silver-gray hair at bathroom mirror, examining scalp with diagnostic precision.
 - Bottom strip (full width, thin dark bar):
   Small white/gold text labels: 「01 頭皮崩壊のメカニズム」 「02 正しい洗髪」 「03 育毛習慣」

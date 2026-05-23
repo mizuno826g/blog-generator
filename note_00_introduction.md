@@ -11,8 +11,7 @@ Layout:
   Below headline: smaller gold subtext: 「BELDANTEが伝えたいこと」
   Below subtext: gold badge/circle with text: 「創刊」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
-  sharp intense eyes, strong jaw, Asian features, dark turtleneck.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark turtleneck.
   Standing with calm authority, slight three-quarter profile facing left.
   Single dramatic spotlight from above — chiaroscuro depth. Dark background.
 - Bottom strip (full width, thin dark bar):

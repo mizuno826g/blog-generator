@@ -9,8 +9,7 @@ Layout:
 - Left area (approx. 55% of width): Large bold white Japanese headline 「手元は、もう一つの顔だ。」
   Gold subtext: 「握手・名刺交換で差がつく40代からの手元管理完全ガイド」
   Badge: small rectangular label 「BELDANTE」in white outline.
-- Right area (approx. 45% of width): The fixed model (male early 50s, silver-gray slicked hair,
-  full gray beard, Asian features, dark suit) in a confident handshake — focus on well-maintained
+- Right area (approx. 45% of width): The fixed model (Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark suit) in a confident handshake — focus on well-maintained
   clean short nails and smooth moisturized hands, warm directional light on hands.
 - Bottom strip: small white labels 「01 手元の評価」「02 爪ケアルーティン」「03 ハンドケア」横並び
 Style: Cinematic editorial, luxury men's brand aesthetic, high contrast, dark warm tones.

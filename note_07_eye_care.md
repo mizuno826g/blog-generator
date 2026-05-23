@@ -10,7 +10,7 @@ Layout:
   Large bold white Japanese headline: 「クマ・むくみは、疲弊のシグナルを無音で発信している。」
   Below headline: smaller gold subtext: 「40代からの目元印象管理——3種のクマと対策」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features.
   Close-up portrait — the eye area is the clear focus. Eyes are sharp and alert, no visible
   fatigue. Dramatic side lighting with soft fill. Dark background.
 - Bottom strip (full width, thin dark bar):

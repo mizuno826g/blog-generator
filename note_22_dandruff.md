@@ -11,8 +11,7 @@ Layout:
   Large bold white Japanese headline: 「肩の赤字を、今日で終わらせる。」
   Below headline: smaller gold or light gray subtext in Japanese: 「フケのタイプを知れば、対策は変わる」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
-  sharp intense eyes, strong jaw, Asian features, dark clothing.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark clothing.
   Scene: model in dark suit brushing shoulder deliberately, confident not embarrassed.
 - Bottom strip (full width, thin dark bar):
   Small white/gold text labels: 「01 フケのタイプ判定」 「02 シャンプー選び」 「03 頭皮保湿」

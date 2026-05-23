@@ -9,8 +9,7 @@ Layout:
 - Left area (approx. 55% of width): Large bold white Japanese headline 「保湿は、肌の武装だ。」
   Gold subtext: 「40代からの乾燥肌を制御する正しい保湿完全ガイド」
   Badge: small rectangular label 「BELDANTE」in white outline.
-- Right area (approx. 45% of width): The fixed model (male early 50s, silver-gray slicked hair,
-  full gray beard, Asian features, dark dress shirt) at a bathroom mirror applying moisturizer —
+- Right area (approx. 45% of width): The fixed model (Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark dress shirt) at a bathroom mirror applying moisturizer —
   both hands pressing gently against cheeks with deliberate upward strokes, sleek dark glass
   bottle on marble counter, controlled and practiced motion, morning warm side light.
 - Bottom strip: small white labels 「01 保湿の誤解」「02 セラミド・水分機序」「03 正しい使い方」横並び

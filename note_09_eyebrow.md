@@ -11,7 +11,7 @@ Layout:
   Below headline: smaller gold subtext: 「40代からの男性が今すぐ眉を整えるべき理由」
   Below subtext: white text with gold accent: 「週3分・月1,000円のビジネス投資」
 - Right area (approx. 45% of width):
-  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, dark suit.
+  Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard, sharp intense eyes, strong jaw, Asian features, dark suit.
   Close-up portrait — eyebrows are cleanly shaped, defined, symmetrical, and businesslike.
   Dramatic directional side lighting, strong contrast, deep shadows defining face structure.
 - Bottom strip (full width, thin dark bar):
