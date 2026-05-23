@@ -10,7 +10,6 @@ Layout:
 - Left area (approx. 55% of width):
   Large bold white Japanese headline: 「肩のシルエットが、スーツより先に人望を語る。」
   Below headline: smaller gold or light gray subtext in Japanese: 「40代からの肩印象管理——丸まった肩が奪うもの、開いた肩が与えるもの」
-  Optional: key number or stat callout enclosed in a gold circle or badge.
 - Right area (approx. 45% of width):
   Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
   sharp intense eyes, strong jaw, Asian features, dark clothing.

@@ -10,7 +10,6 @@ Layout:
 - Left area (approx. 55% of width):
   Large bold white Japanese headline: 「今日の無防備が、10年後の顔として複利で返ってくる。」
   Below headline: smaller gold or light gray subtext in Japanese: 「UVAは今日も降り注いでいる——40代からの通年UV対策完全ガイド」
-  Optional: key number or stat callout enclosed in a gold circle or badge.
 - Right area (approx. 45% of width):
   Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
   sharp intense eyes, strong jaw, Asian features, dark clothing.

@@ -10,7 +10,6 @@ Layout:
 - Left area (approx. 55% of width):
   Large bold white Japanese headline: 「首が、年齢という機密情報をリークする。」
   Below headline: smaller gold or light gray subtext in Japanese: 「スキンケアの最大の盲点——首とデコルテの対策」
-  Optional: key number or stat callout enclosed in a gold circle or badge.
 - Right area (approx. 45% of width):
   Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
   sharp intense eyes, strong jaw, Asian features, dark clothing.

@@ -10,7 +10,6 @@ Layout:
 - Left area (approx. 55% of width):
   Large bold white Japanese headline: 「目元は、顔の中で最初に・最も長く読まれる。」
   Below headline: smaller gold or light gray subtext in Japanese: 「40代からのアイクリーム——目元という最重要ページへの投資」
-  Optional: key number or stat callout enclosed in a gold circle or badge.
 - Right area (approx. 45% of width):
   Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
   sharp intense eyes, strong jaw, Asian features, dark clothing.

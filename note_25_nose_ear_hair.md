@@ -10,7 +10,6 @@ Layout:
 - Left area (approx. 55% of width):
   Large bold white Japanese headline: 「細部が品格を決める。鼻毛・耳毛は踏み絵だ。」
   Below headline: smaller gold or light gray subtext in Japanese: 「40代が見落とす細部管理——週5分で信頼感を守る」
-  Optional: key number or stat callout enclosed in a gold circle or badge.
 - Right area (approx. 45% of width):
   Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
   sharp intense eyes, strong jaw, Asian features, dark clothing.

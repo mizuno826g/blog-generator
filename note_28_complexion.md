@@ -10,7 +10,6 @@ Layout:
 - Left area (approx. 55% of width):
   Large bold white Japanese headline: 「顔色は、体内経営の信用格付けだ。」
   Below headline: smaller gold or light gray subtext in Japanese: 「40代からの血色・くすみ改善——ビジネスで最初に読まれる情報を制御する」
-  Optional: key number or stat callout enclosed in a gold circle or badge.
 - Right area (approx. 45% of width):
   Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
   sharp intense eyes, strong jaw, Asian features, dark clothing.

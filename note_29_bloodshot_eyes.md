@@ -10,7 +10,6 @@ Layout:
 - Left area (approx. 55% of width):
   Large bold white Japanese headline: 「充血した目は、昨夜を語りすぎる。」
   Below headline: smaller gold or light gray subtext in Japanese: 「40代からの目の充血対策——ビジネスの場でクリアな目を維持する」
-  Optional: key number or stat callout enclosed in a gold circle or badge.
 - Right area (approx. 45% of width):
   Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
   sharp intense eyes, strong jaw, Asian features, dark clothing.

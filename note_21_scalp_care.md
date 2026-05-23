@@ -10,7 +10,6 @@ Layout:
 - Left area (approx. 55% of width):
   Large bold white Japanese headline: 「頭皮が崩れると、全てが崩れる。」
   Below headline: smaller gold or light gray subtext in Japanese: 「40代からの頭皮ケア・薄毛予防完全ガイド」
-  Optional: key number or stat callout enclosed in a gold circle or badge.
 - Right area (approx. 45% of width):
   Model: Male, early 50s, silver-gray hair slicked back, full trimmed gray beard,
   sharp intense eyes, strong jaw, Asian features, dark clothing.
