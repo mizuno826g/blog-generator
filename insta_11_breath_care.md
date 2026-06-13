@@ -9,6 +9,7 @@
 **テキスト（デザイン工程で画像に重ねる）:**
 - 大見出し：口臭は、本人だけが知らない。
 - サブタイトル：40代からのビジネスマンの「口内環境」管理術
+- シリーズラベル（最小サイズ）：シリーズ「ニオイの自己認識ギャップ」（全7回）第2回
 
 ```
 [PHOTO_PROMPT]
@@ -288,6 +289,7 @@ on the screen and a small upward-pointing arrow. Minimal, icon-style. Black outl
 Body text (below illustration frame, centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：歯の印象管理
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ```
 
@@ -306,6 +308,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 
 「気づかれている」前提で対策を取る。それがリスクヘッジだ。
 保存して、明日の朝から実行してください。
+
+このシリーズの続きはInstagramハイライト「③ニオイ問題」にまとめています。
 
 #40代からのメンズケア #口臭対策 #ビジネスマン清潔感 #口内ケア #メンズグルーミング
 #身だしなみ #40代からの男性 #清潔感 #エグゼクティブ #歯周病予防

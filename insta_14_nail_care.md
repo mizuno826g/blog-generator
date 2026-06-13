@@ -9,6 +9,7 @@
 **テキスト（デザイン工程で画像に重ねる）:**
 - 大見出し：手元は、もう一つの顔だ。
 - サブタイトル：40代からのビジネスマンの「爪と手」の整え方
+- シリーズラベル（最小サイズ）：シリーズ「細部が品格を決める」（全5回）第5回
 
 ```
 [PHOTO_PROMPT]
@@ -295,6 +296,7 @@ Inside: smartphone outline with link icon and upward arrow. Black outlines on wh
 Body text (centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：うなじ・指毛・体毛管理
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ```
 
@@ -313,6 +315,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 
 服装を完璧にしても、手元で台無しになる。
 詳細はリンクから。
+
+このシリーズの続きはInstagramハイライト「④細部管理」にまとめています。
 
 #手元の印象 #ネイルケア男性 #ビジネスマン清潔感 #40代からの男性 #身だしなみ
 #メンズグルーミング #清潔感 #エグゼクティブ #自己投資 #印象管理

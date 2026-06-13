@@ -23,6 +23,9 @@ Size: W1080 × H1350
 **サブタイトル（白・レギュラー・大見出しの約52%サイズ・センタリング）:**
 40代が見落とす「鼻毛・耳毛」の印象管理
 
+**シリーズラベル（最小サイズ・サブタイトル直下）:**
+シリーズ「細部が品格を決める」（全5回）第2回
+
 ---
 
 ## SLIDE 2
@@ -249,6 +252,7 @@ White illustration frame: smartphone with link icon and upward arrow. Black outl
 Body text (centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：髭の印象戦略
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 
 ---
@@ -264,6 +268,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ✔ 毎週月曜朝に5分グルーミングチェックを習慣化
 
 詳細はリンクから。
+
+このシリーズの続きはInstagramハイライト「④細部管理」にまとめています。
 
 #鼻毛処理 #耳毛 #40代からの男性 #ビジネスマン清潔感 #メンズグルーミング
 #身だしなみ #清潔感 #エグゼクティブ #自己投資 #印象管理

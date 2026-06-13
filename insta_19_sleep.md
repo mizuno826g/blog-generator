@@ -9,6 +9,7 @@
 **テキスト（デザイン工程で画像に重ねる）:**
 - 大見出し：睡眠が、翌朝の顔を作る。
 - サブタイトル：40代からの外見コンディションは「睡眠」で決まる
+- シリーズラベル（最小サイズ）：シリーズ「顔が語る昨夜の記録」（全6回）第1回
 
 ```
 [PHOTO_PROMPT]
@@ -293,6 +294,7 @@ White illustration frame: smartphone with link icon and upward arrow. Black outl
 Body text (centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：目の充血
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ```
 
@@ -309,6 +311,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ✔ 翌朝のむくみは冷水洗顔＋水500mlで即時リセット
 
 前夜の過ごし方が、翌朝の顔を決める。
+
+このシリーズの続きはInstagramハイライト「②昨夜の記録」にまとめています。
 
 #睡眠 #外見管理 #40代からの男性 #ビジネスマン清潔感 #印象管理
 #睡眠の質 #身だしなみ #エグゼクティブ #自己投資 #清潔感

@@ -9,6 +9,7 @@
 **テキスト（デザイン工程で画像に重ねる）:**
 - 大見出し：唇の荒れは、粗雑さの証明だ。
 - サブタイトル：40代以降が見落とす「リップケア」の印象効果
+- シリーズラベル（最小サイズ）：シリーズ「細部が品格を決める」（全5回）第4回
 
 ```
 [PHOTO_PROMPT]
@@ -293,6 +294,7 @@ White illustration frame: smartphone with link icon and upward arrow. Black outl
 Body text (centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：爪・手元の印象管理
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ```
 
@@ -309,6 +311,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ✔ 唇を舐める習慣を今すぐやめる
 
 細部を制する者が、印象を制する。
+
+このシリーズの続きはInstagramハイライト「④細部管理」にまとめています。
 
 #リップケア #メンズケア #40代からの男性 #ビジネスマン清潔感 #印象管理
 #身だしなみ #清潔感 #エグゼクティブ #自己投資 #乾燥対策

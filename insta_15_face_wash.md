@@ -9,6 +9,7 @@
 **テキスト（デザイン工程で画像に重ねる）:**
 - 大見出し：その洗顔、肌を壊していませんか。
 - サブタイトル：40代からのための「正しい洗顔」完全ガイド
+- シリーズラベル（最小サイズ）：シリーズ「清潔感の基礎工事」（全7回）第2回
 
 ```
 [PHOTO_PROMPT]
@@ -284,6 +285,7 @@ White illustration frame: smartphone with link icon and upward arrow. Black outl
 Body text (centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：保湿
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ```
 
@@ -301,6 +303,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ✔ 乾燥肌の人は朝は水洗いのみでも十分
 
 洗顔は全スキンケアの起点。ここを変えるだけで肌が変わる。
+
+このシリーズの続きはInstagramハイライト「①基礎工事」にまとめています。
 
 #洗顔 #メンズスキンケア #40代からの男性 #ビジネスマン清潔感 #肌ケア
 #身だしなみ #清潔感 #エグゼクティブ #自己投資 #印象管理

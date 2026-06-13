@@ -9,6 +9,7 @@
 **テキスト（デザイン工程で画像に重ねる）:**
 - 大見出し：眉毛を整えるだけで、顔の印象は変わる。
 - サブタイトル：40代からの男性の「眉の印象管理」
+- シリーズラベル（最小サイズ）：シリーズ「細部が品格を決める」（全5回）第1回
 
 ```
 [PHOTO_PROMPT]
@@ -313,6 +314,7 @@ Black outlines only on white, no gray fill.
 Body text (below illustration frame, centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：鼻毛・耳毛ケア
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ```
 
@@ -339,6 +341,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 以降は週1〜2回の自己管理だけでいい。
 
 「眉毛ケアしてますか？」コメントで教えてください！
+
+このシリーズの続きはInstagramハイライト「④細部管理」にまとめています。
 
 #眉毛 #メンズ眉 #眉毛整え方 #清潔感 #40代からの男性
 #ビジネスマン #身だしなみ #BELDANTE #メンズグルーミング

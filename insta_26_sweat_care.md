@@ -23,6 +23,9 @@ Size: W1080 × H1350
 **サブタイトル（白・レギュラー・大見出しの約52%サイズ・センタリング）:**
 40代からの汗・制汗ケア完全ガイド
 
+**シリーズラベル（最小サイズ・サブタイトル直下）:**
+シリーズ「ニオイの自己認識ギャップ」（全7回）第6回
+
 ---
 
 ## SLIDE 2
@@ -249,6 +252,7 @@ White illustration frame: smartphone with link icon and upward arrow. Black outl
 Body text (centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：足の臭い
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 
 ---
@@ -264,6 +268,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ✔ 水分補給で汗の質を改善
 
 詳細はリンクから。
+
+このシリーズの続きはInstagramハイライト「③ニオイ問題」にまとめています。
 
 #汗対策 #制汗ケア #40代からの男性 #ビジネスマン清潔感 #メンズグルーミング
 #身だしなみ #清潔感 #エグゼクティブ #自己投資 #印象管理

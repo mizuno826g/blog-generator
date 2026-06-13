@@ -9,6 +9,7 @@
 **テキスト（デザイン工程で画像に重ねる）:**
 - 大見出し：香りは、去った後も印象を残す。
 - サブタイトル：40代以降が知るべき「香りの戦略」
+- シリーズラベル（最小サイズ）：シリーズ「内側から作る外見」（全3回）第2回
 
 ```
 [PHOTO_PROMPT]
@@ -292,6 +293,7 @@ White illustration frame: smartphone with link icon and upward arrow. Black outl
 Body text (centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：首・デコルテケア
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ```
 
@@ -308,6 +310,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ✔ 密室・初対面は軽め、夜の会食は存在感をプラス
 
 体臭ケアを前提に、香りを「設計」する。
+
+このシリーズの続きはInstagramハイライト「⑦内側から」にまとめています。
 
 #香水 #メンズフレグランス #40代からの男性 #ビジネスマン清潔感 #印象管理
 #香りの戦略 #身だしなみ #エグゼクティブ #自己投資 #清潔感

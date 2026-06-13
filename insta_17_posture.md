@@ -9,6 +9,7 @@
 **テキスト（デザイン工程で画像に重ねる）:**
 - 大見出し：背筋が、男の格を決める。
 - サブタイトル：40代からの「姿勢と体型」が印象を支配する
+- シリーズラベル（最小サイズ）：シリーズ「ボディランゲージという武器」（全3回）第1回
 
 ```
 [PHOTO_PROMPT]
@@ -291,6 +292,7 @@ White illustration frame: smartphone with link icon and upward arrow. Black outl
 Body text (centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：肩の印象管理
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ```
 
@@ -307,6 +309,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ✔ 夜の炭水化物半減＋タンパク質確保で腹肉をコントロール
 
 姿勢は今日から、体型は今月から変えられる。
+
+このシリーズの続きはInstagramハイライト「⑤ボディランゲージ」にまとめています。
 
 #姿勢改善 #体型管理 #40代からの男性 #ビジネスマン清潔感 #メンズボディ
 #身だしなみ #清潔感 #エグゼクティブ #自己投資 #印象管理

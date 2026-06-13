@@ -9,6 +9,7 @@
 **テキスト（デザイン工程で画像に重ねる）:**
 - 大見出し：目の下のクマは、疲労の領収書だ。
 - サブタイトル：40代からの「目元印象管理」入門
+- シリーズラベル（最小サイズ）：シリーズ「顔が語る昨夜の記録」（全6回）第3回
 
 ```
 [PHOTO_PROMPT]
@@ -313,6 +314,7 @@ Black outlines only on white, no gray fill.
 Body text (below illustration frame, centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：アイクリーム
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ```
 
@@ -337,6 +339,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 目元が変わると、第一印象は劇的に変わる。
 詳細はプロフィールのリンクから。
 「黒クマに悩んでいる」方はコメントで教えてください！
+
+このシリーズの続きはInstagramハイライト「②昨夜の記録」にまとめています。
 
 #目のクマ #メンズスキンケア #40代からの男性 #クマ対策 #目元ケア
 #清潔感 #ビジネスマン #身だしなみ #BELDANTE #アイケア

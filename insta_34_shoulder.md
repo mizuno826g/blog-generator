@@ -19,6 +19,9 @@ Size: W1080 × H1350
 **サブタイトル（白・レギュラー・大見出しの52%・センタリング）:**
 40代からの肩こり・肩幅・姿勢の印象管理
 
+**シリーズラベル（最小サイズ・サブタイトル直下）:**
+シリーズ「ボディランゲージという武器」（全3回）第2回
+
 **帯:** ソリッドな黒矩形・不透明度80〜85%・画像上端から62〜65%の位置を上辺とし下端まで
 
 ---
@@ -256,6 +259,7 @@ Inside the frame: A simple monochrome line art of a smartphone outline with a li
 Body text (below illustration frame, centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：リーダーの外見戦略
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 
 ---
@@ -271,6 +275,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ✔ 商談前に胸開きストレッチで即効性のある印象改善
 
 詳細はリンクから。
+
+このシリーズの続きはInstagramハイライト「⑤ボディランゲージ」にまとめています。
 
 #肩こり #肩の印象 #40代からの男性 #ビジネスマン清潔感 #印象管理
 #身だしなみ #清潔感 #エグゼクティブ #自己投資 #姿勢改善

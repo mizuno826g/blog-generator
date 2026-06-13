@@ -23,6 +23,9 @@ Size: W1080 × H1350
 **サブタイトル（白・レギュラー・大見出しの約52%サイズ・センタリング）:**
 40代からの血色・顔色改善完全ガイド
 
+**シリーズラベル（最小サイズ・サブタイトル直下）:**
+シリーズ「顔が語る昨夜の記録」（全6回）第5回
+
 ---
 
 ## SLIDE 2
@@ -249,6 +252,7 @@ White illustration frame: smartphone with link icon and upward arrow. Black outl
 Body text (centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：二重あご
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 
 ---
@@ -264,6 +268,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ✔ 睡眠7時間＋週3回有酸素運動が最速の顔色改善
 
 詳細はリンクから。
+
+このシリーズの続きはInstagramハイライト「②昨夜の記録」にまとめています。
 
 #顔色改善 #くすみ対策 #40代からの男性 #ビジネスマン清潔感 #メンズスキンケア
 #身だしなみ #清潔感 #エグゼクティブ #自己投資 #血色アップ

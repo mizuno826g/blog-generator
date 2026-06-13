@@ -23,6 +23,9 @@ Size: W1080 × H1350
 **サブタイトル（白・レギュラー・大見出しの約52%サイズ・センタリング）:**
 40代からの毛穴・角栓対策ガイド
 
+**シリーズラベル（最小サイズ・サブタイトル直下）:**
+シリーズ「清潔感の基礎工事」（全7回）第4回
+
 ---
 
 ## SLIDE 2
@@ -249,6 +252,7 @@ White illustration frame: smartphone with link icon and upward arrow. Black outl
 Body text (centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：夜のスキンケア
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 
 ---
@@ -264,6 +268,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ✔ ナイアシンアミド配合保湿剤で毛穴を引き締め
 
 詳細はリンクから。
+
+このシリーズの続きはInstagramハイライト「①基礎工事」にまとめています。
 
 #毛穴ケア #角栓 #40代からの男性 #ビジネスマン清潔感 #メンズスキンケア
 #身だしなみ #清潔感 #エグゼクティブ #自己投資 #毛穴黒ずみ

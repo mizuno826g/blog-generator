@@ -19,6 +19,9 @@ Size: W1080 × H1350
 **サブタイトル（白・レギュラー・大見出しの52%・センタリング）:**
 40代からの夜スキンケアルーティン完全版
 
+**シリーズラベル（最小サイズ・サブタイトル直下）:**
+シリーズ「清潔感の基礎工事」（全7回）第5回
+
 **帯:** ソリッドな黒矩形・不透明度80〜85%・画像上端から62〜65%の位置を上辺とし下端まで
 
 ---
@@ -256,6 +259,7 @@ Inside the frame: A simple monochrome line art of a smartphone outline with a li
 Body text (below illustration frame, centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：日焼け止め
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 
 ---
@@ -271,6 +275,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ✔ アイクリーム＋リップバームで老化の最前線を守る
 
 詳細はリンクから。
+
+このシリーズの続きはInstagramハイライト「①基礎工事」にまとめています。
 
 #夜のスキンケア #ナイトケア #40代からの男性 #ビジネスマン清潔感 #メンズスキンケア
 #身だしなみ #清潔感 #エグゼクティブ #自己投資 #印象管理

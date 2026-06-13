@@ -9,6 +9,7 @@
 **テキスト（デザイン工程で画像に重ねる）:**
 - 大見出し：保湿は「肌の武装」だ。
 - サブタイトル：40代からの乾燥肌を制御する正しい方法
+- シリーズラベル（最小サイズ）：シリーズ「清潔感の基礎工事」（全7回）第3回
 
 ```
 [PHOTO_PROMPT]
@@ -286,6 +287,7 @@ White illustration frame: smartphone with link icon and upward arrow. Black outl
 Body text (centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：毛穴管理
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ```
 
@@ -303,6 +305,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 
 詳細はプロフィールのリンクから。
 「実践してみた」という方はコメントで教えてください。
+
+このシリーズの続きはInstagramハイライト「①基礎工事」にまとめています。
 
 #メンズスキンケア #保湿 #40代からの男性 #ビジネスマン清潔感 #スキンケア男子
 #身だしなみ #清潔感 #エグゼクティブ #自己投資 #40代からのスキンケア

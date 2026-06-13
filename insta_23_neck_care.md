@@ -23,6 +23,9 @@ Size: W1080 × H1350
 **サブタイトル（白・レギュラー・大見出しの約52%サイズ・センタリング）:**
 40代からの首・デコルテのシワ対策
 
+**シリーズラベル（最小サイズ・サブタイトル直下）:**
+シリーズ「内側から作る外見」（全3回）第3回
+
 ---
 
 ## SLIDE 2
@@ -249,6 +252,7 @@ White illustration frame: smartphone with link icon and upward arrow. Black outl
 Body text (centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：飲酒と翌朝の肌コンディション
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 
 ---
@@ -264,6 +268,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ✔ スマホを目線の高さに上げる習慣
 
 詳細はリンクから。
+
+このシリーズの続きはInstagramハイライト「⑦内側から」にまとめています。
 
 #首のシワ #デコルテケア #40代からの男性 #ビジネスマン清潔感 #アンチエイジング
 #身だしなみ #清潔感 #エグゼクティブ #自己投資 #印象管理

@@ -9,6 +9,7 @@
 **テキスト（デザイン工程で画像に重ねる）:**
 - 大見出し：体臭は、本人が最も気づきにくい。
 - サブタイトル：40代からの男性の「体臭管理」戦略
+- シリーズラベル（最小サイズ）：シリーズ「ニオイの自己認識ギャップ」（全7回）第1回
 
 ```
 [PHOTO_PROMPT]
@@ -313,6 +314,7 @@ Black outlines only on white, no gray fill.
 Body text (below illustration frame, centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：口臭
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ```
 
@@ -339,6 +341,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 
 詳細はプロフィールのリンクから。
 「加齢臭対策で実践していること」をコメントで教えてください！
+
+このシリーズの続きはInstagramハイライト「③ニオイ問題」にまとめています。
 
 #加齢臭 #体臭対策 #40代からの男性 #ノネナール #デオドラント
 #清潔感 #ビジネスマン #身だしなみ #BELDANTE #メンズグルーミング

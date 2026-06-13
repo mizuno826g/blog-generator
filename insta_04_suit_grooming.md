@@ -9,6 +9,7 @@
 **テキスト（デザイン工程で画像に重ねる）:**
 - 大見出し：スーツが「整っている」か、
 - サブタイトル：それだけで、評価は変わる。
+- シリーズラベル（最小サイズ）：シリーズ「ビジネスシーン実践編」（全4回）第2回
 
 ```
 [PHOTO_PROMPT]
@@ -315,6 +316,7 @@ Black outlines only on white, no gray fill.
 Body text (below illustration frame, centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：オンライン商談
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ```
 
@@ -340,6 +342,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 
 どれも今日から改善できる。詳細はリンクから。
 「今日から靴磨き始めました」というコメント、待ってます！
+
+このシリーズの続きはInstagramハイライト「⑥ビジネス実践」にまとめています。
 
 #スーツ #メンズファッション #ビジネスマン #清潔感 #身だしなみ
 #40代からの男性 #スーツスタイル #靴磨き #ビジネスカジュアル #BELDANTE

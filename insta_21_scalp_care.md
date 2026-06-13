@@ -23,6 +23,9 @@ Size: W1080 × H1350
 **サブタイトル（白・レギュラー・大見出しの約52%サイズ・センタリング）:**
 40代からの頭皮ケア完全戦略
 
+**シリーズラベル（最小サイズ・サブタイトル直下）:**
+シリーズ「ニオイの自己認識ギャップ」（全7回）第4回
+
 ---
 
 ## SLIDE 2
@@ -249,6 +252,7 @@ White illustration frame: smartphone with link icon and upward arrow. Black outl
 Body text (centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：フケ対策
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 
 ---
@@ -264,6 +268,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ✔ タンパク質・亜鉛の食事管理
 
 詳細はプロフィールのリンクから。気になることがあればコメントで。
+
+このシリーズの続きはInstagramハイライト「③ニオイ問題」にまとめています。
 
 #頭皮ケア #薄毛対策 #40代からの男性 #メンズヘアケア #スカルプケア
 #身だしなみ #清潔感 #エグゼクティブ #自己投資 #印象管理

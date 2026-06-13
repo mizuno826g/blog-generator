@@ -9,6 +9,7 @@
 **テキスト（デザイン工程で画像に重ねる）:**
 - 大見出し：無精ひげか、計算された髭か。
 - サブタイトル：40代からの「髭」が印象を決める
+- シリーズラベル（最小サイズ）：シリーズ「細部が品格を決める」（全5回）第3回
 
 ```
 [PHOTO_PROMPT]
@@ -295,6 +296,7 @@ on the screen and a small upward-pointing arrow. Minimal, icon-style. Black outl
 Body text (below illustration frame, centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：リップケア
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ```
 
@@ -312,6 +314,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ✔ 業種・相手によって「あり/なし」を戦略的に判断する
 
 保存しておくと次の朝から使えます。
+
+このシリーズの続きはInstagramハイライト「④細部管理」にまとめています。
 
 #髭 #メンズグルーミング #ビジネスマン清潔感 #40代からの男性 #身だしなみ
 #清潔感 #エグゼクティブ #メンズケア #自己投資 #印象管理

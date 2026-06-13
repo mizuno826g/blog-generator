@@ -9,6 +9,7 @@
 **テキスト（デザイン工程で画像に重ねる）:**
 - 大見出し：歯が黄ばんだ瞬間、印象が変わる。
 - サブタイトル：40代から始める「歯の印象管理」
+- シリーズラベル（最小サイズ）：シリーズ「ニオイの自己認識ギャップ」（全7回）第3回
 
 ```
 [PHOTO_PROMPT]
@@ -286,6 +287,7 @@ on the screen and a small upward-pointing arrow. Minimal, icon-style. Black outl
 Body text (below illustration frame, centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：頭皮ケア
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ```
 
@@ -303,6 +305,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 
 歯は失ってから後悔する。今が動くべきタイミングだ。
 詳細はプロフィールのリンクから。
+
+このシリーズの続きはInstagramハイライト「③ニオイ問題」にまとめています。
 
 #歯の印象 #ビジネスマン清潔感 #40代からの男性 #歯周病予防 #ホワイトニング
 #メンズグルーミング #身だしなみ #清潔感 #エグゼクティブ #自己投資

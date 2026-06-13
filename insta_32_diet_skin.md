@@ -19,6 +19,9 @@ Size: W1080 × H1350
 **サブタイトル（白・レギュラー・大見出しの52%・センタリング）:**
 40代からの「食事と肌」管理完全ガイド
 
+**シリーズラベル（最小サイズ・サブタイトル直下）:**
+シリーズ「内側から作る外見」（全3回）第1回
+
 **帯:** ソリッドな黒矩形・不透明度80〜85%・画像上端から62〜65%の位置を上辺とし下端まで
 
 ---
@@ -256,6 +259,7 @@ Inside the frame: A simple monochrome line art of a smartphone outline with a li
 Body text (below illustration frame, centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：香りの戦略
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 
 ---
@@ -271,6 +275,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ✔ 白米・パンを半減して糖化を防ぐ
 
 詳細はリンクから。
+
+このシリーズの続きはInstagramハイライト「⑦内側から」にまとめています。
 
 #食事と肌 #腸活 #40代からの男性 #ビジネスマン清潔感 #メンズスキンケア
 #身だしなみ #清潔感 #エグゼクティブ #自己投資 #糖化対策

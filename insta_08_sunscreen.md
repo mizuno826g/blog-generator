@@ -9,6 +9,7 @@
 **テキスト（デザイン工程で画像に重ねる）:**
 - 大見出し：シミ・くすみの原因の約8割は、紫外線だ。
 - サブタイトル：40代からの男性に必要なUV対策の現実
+- シリーズラベル（最小サイズ）：シリーズ「清潔感の基礎工事」（全7回）第6回
 
 ```
 [PHOTO_PROMPT]
@@ -312,6 +313,7 @@ Black outlines only on white, no gray fill.
 Body text (below illustration frame, centered, line-height 1.7):
 詳しくはプロフィールのリンクから。
 ブログで全文公開中。
+次回：通年UV対策
 Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ```
 
@@ -339,6 +341,8 @@ Font: Noto Sans JP Bold 28px, black (#000000), centered.
 ③ 今週中にメンズ用日焼け止めを購入
 
 「日焼け止めを使ったことがない」という方はコメントで！
+
+このシリーズの続きはInstagramハイライト「①基礎工事」にまとめています。
 
 #日焼け止め #メンズUVケア #40代からの男性スキンケア #光老化 #シミ対策
 #清潔感 #ビジネスマン #身だしなみ #BELDANTE #メンズグルーミング
